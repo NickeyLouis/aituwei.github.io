@@ -5,104 +5,90 @@
 
 ## 🎯 项目 
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+### [docker-windows](https://github.com/dockur/windows)
 
-`Neovim` 针对 `ChatGPT` 的插件：
+`Docker` 启动 `Windows`，特性如下：
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+一些 `Docker Compose` 的实践示例。 
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
 
-一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
-
-![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
-
-然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+### [Calendr](https://github.com/pakerwreah/Calendr)
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-更新记录如下：
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
 ## 🕸 网站 
 
-### [iphub.info](https://iphub.info/)
+### [即时工具](https://www.67tool.com/)
 
-检测 `IP` 质量和安全性：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-### [echoserver](https://echoserver.dev/)
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+### [haitang](https://github.com/javayhu/haitang)
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
 ## ✍️ 说明
 
