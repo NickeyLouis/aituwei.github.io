@@ -5,90 +5,94 @@
 
 ## 🎯 项目 
 
-### [docker-windows](https://github.com/dockur/windows)
+### [yao](https://github.com/YaoApp/yao)
 
-`Docker` 启动 `Windows`，特性如下：
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-一些 `Docker Compose` 的实践示例。 
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+### [mongo-express](https://github.com/mongo-express/mongo-express)
+
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
+
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
+
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [Imagine](https://github.com/meowtec/Imagine)
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+全平台支持的图片压缩软件：
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-### [Calendr](https://github.com/pakerwreah/Calendr)
+### [bdash](https://github.com/bdash-app/bdash)
 
-开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
+用于数据分析的简单 `SQL` 客户端：
 
-![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
 ## 👀 资料 
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
+浙江大学课程攻略共享计划：
 
-![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+一份 `Midjourney` 学习教程：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+麻省理工出品的免费电子书《理解深度学习》：
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
 ## 🕸 网站 
 
-### [即时工具](https://www.67tool.com/)
+### [flow](https://github.com/pacexy/flow)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [blinkshot](https://github.com/Nutlope/blinkshot)
+### [uxdatabase](https://www.uxdatabase.io/)
 
- 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
+### [gh-card.dev](https://gh-card.dev/)
 
-### [haitang](https://github.com/javayhu/haitang)
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
-
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
