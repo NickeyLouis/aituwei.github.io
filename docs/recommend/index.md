@@ -5,94 +5,88 @@
 
 ## 🎯 项目 
 
-### [yao](https://github.com/YaoApp/yao)
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [immich](https://github.com/immich-app/immich)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-### [mongo-express](https://github.com/mongo-express/mongo-express)
+基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
 
-基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
-
-![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
-同类型基于 `Web` 的 `Mongo GUI` 还推荐：
-
-- [mongo-gui](https://github.com/arunbandari/mongo-gui)
-- [Mongoku](https://github.com/huggingface/Mongoku)
-- [mongood](https://github.com/renzholy/mongood) 
+![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-### [Imagine](https://github.com/meowtec/Imagine)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-全平台支持的图片压缩软件：
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-### [bdash](https://github.com/bdash-app/bdash)
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
-用于数据分析的简单 `SQL` 客户端：
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-浙江大学课程攻略共享计划：
+高并发系统设计 40 问，一份架构师学习笔记：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-一份 `Midjourney` 学习教程：
+《结网》作者王坚的开源新书：
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-麻省理工出品的免费电子书《理解深度学习》：
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [caniuse](https://caniuse.com/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [ossinsight](https://ossinsight.io/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [读者阁](https://duzhege.cn/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+可以在线阅读故事会、读者等杂志的网站：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
 ## ✍️ 说明
 
