@@ -5,62 +5,57 @@
 
 ## 🎯 项目 
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [immich](https://github.com/immich-app/immich)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-一个开源的高性能自托管照片和视频备份解决方案：
+### [lavague](https://docs.lavague.ai/)
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+### [little-rat](https://github.com/dnakov/little-rat)
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
-
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
-
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [learningprompt](https://learningprompt.wiki/)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+GitHub开源项目维护协作指南：
 
-《结网》作者王坚的开源新书：
-
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ### [llm-course](https://github.com/mlabonne/llm-course)
 
@@ -70,23 +65,23 @@
 
 ## 🕸 网站 
 
-### [caniuse](https://caniuse.com/)
+### [animatedknots](https://www.animatedknots.com/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+各种给绳子打结的姿势都可以在这里找到：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [ixinqing](http://www.ixinqing.com/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+心晴 · 专注于心理学入门与自我成长:
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-### [读者阁](https://duzhege.cn/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-可以在线阅读故事会、读者等杂志的网站：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
