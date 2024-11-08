@@ -5,83 +5,81 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-### [lavague](https://docs.lavague.ai/)
+一个极简的 `RSS` 在线浏览工具：
 
-`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
-![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
+### [tiptop](https://github.com/nschloe/tiptop)
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+类似`htop`的命令行系统资源监控工具：
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
-
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
 ## 🤖 软件 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
 ## 👀 资料 
 
-### [learningprompt](https://learningprompt.wiki/)
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
-GitHub开源项目维护协作指南：
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+清华大学计算机系课程攻略：
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [Python Tutor](https://pythontutor.com/?)
 
-各种给绳子打结的姿势都可以在这里找到：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [visalist](https://visalist.io)
 
-心晴 · 专注于心理学入门与自我成长:
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [openvim](https://www.openvim.com/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+交互式 `vim` 学习网站：
 
-![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
 ## ✍️ 说明
 
