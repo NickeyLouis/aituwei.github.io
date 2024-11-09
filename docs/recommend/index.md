@@ -5,81 +5,91 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [aigotools](https://github.com/someu/aigotools)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+- 站点管理
+- 站点信息自动采集（playwright、jina、openai）
+- 用户管理（clerk）
+- 国际化
+- 暗色/亮色主题切换
+- SEO 优化
+- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
 
-一个极简的 `RSS` 在线浏览工具：
+### Command2API
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-### [tiptop](https://github.com/nschloe/tiptop)
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
-类似`htop`的命令行系统资源监控工具：
+### [zdir](https://github.com/helloxz/zdir)
 
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+### [VPet](https://github.com/LorisYounger/VPet)
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
 ## 👀 资料 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-清华大学计算机系课程攻略：
+比较全面的 `k8s` 资源收集项目：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+一份循序渐进的 `k8s` 教程：
+
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [pika](https://pika.style/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-### [visalist](https://visalist.io)
+### [curated.design](https://www.curated.design/)
 
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
-### [openvim](https://www.openvim.com/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-交互式 `vim` 学习网站：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
