@@ -5,91 +5,109 @@
 
 ## 🎯 项目 
 
-### [aigotools](https://github.com/someu/aigotools)
+### [luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
 
-- 站点管理
-- 站点信息自动采集（playwright、jina、openai）
-- 用户管理（clerk）
-- 国际化
-- 暗色/亮色主题切换
-- SEO 优化
-- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
+![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
 
-![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-### Command2API
+Nginx 后台管理UI：
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-### [zdir](https://github.com/helloxz/zdir)
+### [koishi](https://koishi.chat/zh-CN/)
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
 ## 🤖 软件 
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+### [1Remote](https://github.com/1Remote/1Remote)
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+### [namida](https://github.com/namidaco/namida)
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-### [VPet](https://github.com/LorisYounger/VPet)
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
+### [marktext](https://github.com/marktext/marktext)
 
-![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-比较全面的 `k8s` 资源收集项目：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [LearnData-开源笔记](https://newzone.top/)
 
-一份循序渐进的 `k8s` 教程：
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [send.internxt.com](https://send.internxt.com/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-### [curated.design](https://www.curated.design/)
+### [flow](https://github.com/pacexy/flow)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
+
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
