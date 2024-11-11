@@ -5,109 +5,84 @@
 
 ## 🎯 项目 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [cal.com](https://github.com/calcom/cal.com)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [sonic](https://github.com/go-sonic/sonic)
 
-Nginx 后台管理UI：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-### [koishi](https://koishi.chat/zh-CN/)
+用 `Python` 代码绘制云原生架构图：
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
-
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
-
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
 ## 🤖 软件 
 
-### [1Remote](https://github.com/1Remote/1Remote)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-- ⭐ 开源且免费
-- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
-- ⭐ 多屏幕、高分辨率的 RDP 支持
-- ⭐ 一键打开你的远程连接 (Alt + M)
-- ⭐ 单个服务器配置中允许存储多个地址和账号
-- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
-- ⭐ 易于部署，仅需解压就能运行
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-### [namida](https://github.com/namidaco/namida)
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
 ## 👀 资料 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-### [LearnData-开源笔记](https://newzone.top/)
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
-
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [logo.surf](https://www.logo.surf/#generate-favicon)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+快速创建图标：
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
 
-### [flow](https://github.com/pacexy/flow)
+### [喵闪字库](https://www.miao3.cn/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [12ft.io](https://12ft.io/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
-
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
 ## ✍️ 说明
 
