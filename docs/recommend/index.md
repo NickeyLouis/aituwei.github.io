@@ -5,84 +5,96 @@
 
 ## 🎯 项目 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [isaiah](https://github.com/will-moss/isaiah)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [plane](https://github.com/makeplane/plane)
 
-用 `Python` 代码绘制云原生架构图：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
 ## 🤖 软件 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [marktext](https://github.com/marktext/marktext)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
-
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
 ## 👀 资料 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+
+《精通比特币》第三版翻译：
+
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-快速创建图标：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-### [喵闪字库](https://www.miao3.cn/)
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
+### [文学网](https://www.hwxnet.com/)
 
-![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
+文学相关工具在线网站：
 
-### [12ft.io](https://12ft.io/)
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+### [apk.bot](https://apk.bot/)
+
+免费无广告的 `APK` 下载网站：
+
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
 ## ✍️ 说明
 
