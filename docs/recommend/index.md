@@ -5,96 +5,105 @@
 
 ## 🎯 项目 
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [isaiah](https://github.com/will-moss/isaiah)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-### [plane](https://github.com/makeplane/plane)
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+### [wails](https://wails.io/)
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+
+![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
+
+### [ollama](https://github.com/jmorganca/ollama)
+
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+一个专为 `Mac` 设计的应用卸载工具：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+非常全面，前端从事人员可以看看。 
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-《精通比特币》第三版翻译：
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
 ## 🕸 网站 
 
-### [blinkshot](https://github.com/Nutlope/blinkshot)
+### [userscloud](https://userscloud.com/)
 
- 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
+免费使用的云空间分享网页：
 
-![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
-体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
+### [toolfinder](https://toolfinder.xyz/)
 
-### [文学网](https://www.hwxnet.com/)
+生产力工具的维基百科：
 
-文学相关工具在线网站：
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+### [damngood.tools](https://damngood.tools/)
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+开源实用工具集合：
 
-### [apk.bot](https://apk.bot/)
-
-免费无广告的 `APK` 下载网站：
-
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
 ## ✍️ 说明
 
