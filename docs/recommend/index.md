@@ -5,105 +5,93 @@
 
 ## 🎯 项目 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-### [wails](https://wails.io/)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+B站视频命令行下载工具：
 
-![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
-
-### [ollama](https://github.com/jmorganca/ollama)
-
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
-
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
 ## 🤖 软件 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [wora](https://github.com/hiaaryan/wora/)
 
-一个专为 `Mac` 设计的应用卸载工具：
+开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
 
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [MyBrain](https://github.com/mhss1/MyBrain)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+- 完全私密，不收集任何数据，也没有任何互联网权限。
+- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
+- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
+- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
+- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
+- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
+- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
 ## 👀 资料 
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+清华大学计算机系课程攻略：
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-非常全面，前端从事人员可以看看。 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
 ## 🕸 网站 
 
-### [userscloud](https://userscloud.com/)
+### [Baidu 一格](https://yige.baidu.com/)
 
-免费使用的云空间分享网页：
+百度出品的文字生成图像模型：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [coze](https://www.coze.cn/)
 
-生产力工具的维基百科：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
-### [damngood.tools](https://damngood.tools/)
+### [removebg](https://www.remove.bg/zh)
 
-开源实用工具集合：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
