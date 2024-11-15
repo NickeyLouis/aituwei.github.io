@@ -5,93 +5,126 @@
 
 ## 🎯 项目 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-B站视频命令行下载工具：
+### [amprobe](https://github.com/amuluze/amprobe)
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
+
+暂时还不支持多机器关联，期待作者更新：
+
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
 ## 🤖 软件 
 
-### [wora](https://github.com/hiaaryan/wora/)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
+本地备份软件：
 
-![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [MyBrain](https://github.com/mhss1/MyBrain)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
+### [batnoter](https://github.com/batnoter/batnoter)
 
-- 完全私密，不收集任何数据，也没有任何互联网权限。
-- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
-- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
-- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
-- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
-- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
-- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-### [dbgate](https://github.com/dbgate/dbgate)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+### [my-tv](https://github.com/lizongying/my-tv)
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+安卓电视直播软件，内置直播源：
+
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-清华大学计算机系课程攻略：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+通过科学方法训练自己的身体，让自己更加健康：
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
 
 ## 🕸 网站 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [learngpt.com](https://www.learngpt.com/)
 
-百度出品的文字生成图像模型：
+`ChatGPT` 最佳用例分享网站：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [coze](https://www.coze.cn/)
+### [FRE321](https://www.fre321.com/)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-### [removebg](https://www.remove.bg/zh)
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+常用软件的快捷键备忘录：
+
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ## ✍️ 说明
 
