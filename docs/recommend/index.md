@@ -5,126 +5,93 @@
 
 ## 🎯 项目 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [doocs/md](https://github.com/doocs/md)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-### [amprobe](https://github.com/amuluze/amprobe)
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
-
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
-
-暂时还不支持多机器关联，期待作者更新：
-
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-本地备份软件：
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [namida](https://github.com/namidaco/namida)
 
-### [batnoter](https://github.com/batnoter/batnoter)
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+### [eoapi](https://github.com/eolinker/eoapi)
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-### [my-tv](https://github.com/lizongying/my-tv)
-
-安卓电视直播软件，内置直播源：
-
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-通过科学方法训练自己的身体，让自己更加健康：
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [upstract](https://upstract.com/)
 
-`ChatGPT` 最佳用例分享网站：
+比较全面的新闻聚合平台：
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [FRE321](https://www.fre321.com/)
+### [screenshot](https://screenshot.rocks/)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+快速创建精美的移动和浏览器屏幕截图：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+### [carbon](https://carbon.now.sh/)
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+将你的源代码转成漂亮可分享的图片：
 
-常用软件的快捷键备忘录：
-
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
 ## ✍️ 说明
 
