@@ -5,93 +5,86 @@
 
 ## 🎯 项目 
 
-### [doocs/md](https://github.com/doocs/md)
+### [dockge](https://github.com/louislam/dockge)
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+`Portainer` 也是不错的选择。 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-### [background-removal-js](https://github.com/imgly/background-removal-js)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
 ## 🤖 软件 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+面向计算机科学的简单开源学术论文管理工具：
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [namida](https://github.com/namidaco/namida)
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
 ## 👀 资料 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [2d2d](https://2d2d.io/)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
-
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [alleyread](https://alleyread.com/)
 
-比较全面的新闻聚合平台：
+发现优质 `Newsletter`：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 
-快速创建精美的移动和浏览器屏幕截图：
+基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
 
-### [carbon](https://carbon.now.sh/)
+### [读者阁](https://duzhege.cn/)
 
-将你的源代码转成漂亮可分享的图片：
+可以在线阅读故事会、读者等杂志的网站：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
 ## ✍️ 说明
 
