@@ -5,86 +5,81 @@
 
 ## 🎯 项目 
 
-### [dockge](https://github.com/louislam/dockge)
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+`Neovim` 针对 `ChatGPT` 的插件：
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-`Portainer` 也是不错的选择。 
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+### crontab-ui
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+提供简单安全的方式来管理 `crontab`:
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
-
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
 
-面向计算机科学的简单开源学术论文管理工具：
+一款安卓上的哔哩哔哩的第三方APP：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### 认知偏差知识手册
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
-
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
 
 ## 🕸 网站 
 
-### [alleyread](https://alleyread.com/)
+### [archive.today](https://archive.today/)
 
-发现优质 `Newsletter`：
+提供任何网站存档查询的网站：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+### [seesaw](https://www.seesaw.website/)
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
-### [读者阁](https://duzhege.cn/)
+### [emojispark](https://emojispark.com/)
 
-可以在线阅读故事会、读者等杂志的网站：
+`Emoji` 搜索网站：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
 
 ## ✍️ 说明
 
