@@ -5,81 +5,87 @@
 
 ## 🎯 项目 
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-`Neovim` 针对 `ChatGPT` 的插件：
+基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [heti](https://github.com/sivan/heti)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-### crontab-ui
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-提供简单安全的方式来管理 `crontab`:
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
 ## 🤖 软件 
 
-### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-一款安卓上的哔哩哔哩的第三方APP：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+一个开源的YouTube应用程序，旨在保护隐私：
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-### [ptg](https://github.com/crossoverJie/ptg)
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
-
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+这本书的目标是:
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-### 认知偏差知识手册
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+一本开源的专门讲解面试关键路径的书籍：
 
-### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
+### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+
+一份Golang设计模式教程：
+
+![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
 
 ## 🕸 网站 
 
-### [archive.today](https://archive.today/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-提供任何网站存档查询的网站：
+开放纯粹的资源网站：
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [seesaw](https://www.seesaw.website/)
+### [uilibhub](https://uilibhub.com/zh)
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
-### [emojispark](https://emojispark.com/)
+### [untools](https://untools.co/)
 
-`Emoji` 搜索网站：
+一个帮助你思考的集合工具&框架：
 
-![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
 ## ✍️ 说明
 
