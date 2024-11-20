@@ -5,87 +5,102 @@
 
 ## 🎯 项目 
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+### crontab-ui
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+提供简单安全的方式来管理 `crontab`:
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-### [heti](https://github.com/sivan/heti)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+### [yao](https://github.com/YaoApp/yao)
 
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+
+![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-一个开源的YouTube应用程序，旨在保护隐私：
+### [bdash](https://github.com/bdash-app/bdash)
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+用于数据分析的简单 `SQL` 客户端：
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-这本书的目标是:
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-一本开源的专门讲解面试关键路径的书籍：
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-一份Golang设计模式教程：
+目前也提供了中文版：
 
-![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
 ## 🕸 网站 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [网道](https://wangdoc.com/)
 
-开放纯粹的资源网站：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [uilibhub](https://uilibhub.com/zh)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+### [ipdetective](https://ipdetective.io/api)
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+检测 `ip` 是否是机器人：
 
-### [untools](https://untools.co/)
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-一个帮助你思考的集合工具&框架：
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+
+
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
 ## ✍️ 说明
 
