@@ -5,69 +5,53 @@
 
 ## 🎯 项目 
 
-### crontab-ui
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-提供简单安全的方式来管理 `crontab`:
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
-
-### [yao](https://github.com/YaoApp/yao)
-
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
-
-![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
+程序员在家做饭方法指南。 
 
 ## 🤖 软件 
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [KOReader](https://github.com/koreader/koreader)
 
-用于数据分析的简单 `SQL` 客户端：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
 ## 👀 资料 
-
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
-
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
-
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
-
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
-
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
@@ -77,30 +61,37 @@
 
 ![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [tik.fail](https://tik.fail/browse)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [it-tools](https://it-tools.tech/)
 
-### [ipdetective](https://ipdetective.io/api)
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-检测 `ip` 是否是机器人：
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [法律时代导航](https://yesen.cn/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
-
-
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
 ## ✍️ 说明
 
