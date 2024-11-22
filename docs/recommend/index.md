@@ -5,93 +5,93 @@
 
 ## 🎯 项目 
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+### [flet](https://github.com/flet-dev/flet)
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-程序员在家做饭方法指南。 
+### [Kyoo](https://github.com/zoriya/Kyoo)
+
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+
+目前产品形态只有 `Web` 和 `Android`。 
 
 ## 🤖 软件 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
-
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-目前也提供了中文版：
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+### developer-roadmap
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+开发人员学习成长路线图：
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [tik.fail](https://tik.fail/browse)
+### [ray.so/icon](https://ray.so/icon)
 
-国内能直接刷TikTok的在线网站，支持搜索和下载：
+`Raycast` 出品的图标设计工具：
 
-![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-### [法律时代导航](https://yesen.cn/)
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
