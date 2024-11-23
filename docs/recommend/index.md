@@ -5,93 +5,85 @@
 
 ## 🎯 项目 
 
-### [flet](https://github.com/flet-dev/flet)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
-
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
-
-目前产品形态只有 `Web` 和 `Android`。 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
 ## 🤖 软件 
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-Git 分支管理工具，从头开始构建，用于现代工作流：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
-
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
 ## 👀 资料 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-### developer-roadmap
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-开发人员学习成长路线图：
-
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [ray.so/icon](https://ray.so/icon)
+### [openalternative](https://openalternative.co/)
 
-`Raycast` 出品的图标设计工具：
+网站提供了一些项目的开源选择：
 
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [trendingpapers](https://trendingpapers.com)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+### [pingli.app](https://www.pingli.app/)
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
-
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
 ## ✍️ 说明
 
