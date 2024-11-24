@@ -5,85 +5,98 @@
 
 ## 🎯 项目 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+每天学习一个 Go 语言库，内容质量相当高。
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
 ## 🤖 软件 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [chatd.ai](https://www.chatd.ai/)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+- 一键式下载与启动。
+- 无需额外依赖。
+- 应用文件体积最小化。
+- 设计简单的大语言模型版本控制与分发系统。
+- 兼容所有主流操作系统。
+- 利用本地运行的优势，如访问本地文件系统。
+- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+简单来说，这款软件能看什么取决与你用什么插件：
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+
+### [weektodo](https://weektodo.me/)
+
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+### [2d2d](https://2d2d.io/)
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [openalternative](https://openalternative.co/)
+### [1loc](https://1loc.dev/)
 
-网站提供了一些项目的开源选择：
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
-### [trendingpapers](https://trendingpapers.com)
+### [phind.com](https://www.phind.com/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+面向开发者的人工智能搜索引擎：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [pingli.app](https://www.pingli.app/)
+### [alternativeto](https://alternativeto.net/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
