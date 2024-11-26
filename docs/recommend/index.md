@@ -5,86 +5,102 @@
 
 ## 🎯 项目 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-一个终端打字应用程序，以提高你的手指水平！
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-### [markwhen](https://github.com/mark-when/markwhen)
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-通过网络收集整理的中文歌词数据库, 包含:
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
 
-作者基于此数据库做了两个歌词生成器：
-
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
 ## 🤖 软件 
 
-### mizu
+### [cicada](https://github.com/mebtte/cicada)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+知了, 支持多用户的开源音乐服务：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-GitHub开源项目维护协作指南：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+
+《Software Engineering at Google》的中文翻译版本：
+
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [seesaw](https://www.seesaw.website/)
+### [fancymacbook](https://fancymacbook.app/)
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [stockai.trade](https://stockai.trade)
+### [ouchn](https://le.ouchn.cn/#/home)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-### [kkdaxue](https://www.kkdaxue.com/)
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-高考志愿网站，发现各专业前辈们的学习建议：
+### [damngood.tools](https://damngood.tools/)
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+开源实用工具集合：
+
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
 ## ✍️ 说明
 
