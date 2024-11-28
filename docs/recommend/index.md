@@ -5,98 +5,108 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-### [ladder](https://github.com/everywall/ladder)
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
 
-### [yft-design](https://github.com/dromara/yft-design)
+![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
 
-基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
+然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
 
-![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
+
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-### [Calendr](https://github.com/pakerwreah/Calendr)
+源的话推荐：
 
-开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
+- https://decrypt.day/library
+- https://ipa.store/
 
-![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
+就是有些 APP 偶尔会崩溃。 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-开源的法律知识速查手册：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+
+### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
+
+一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
+
+![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
 
 ## 👀 资料 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [BGC](https://beej.us/guide/bgc/)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+面向初学者的 C 语言教程：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-对于前端开发者来说应该是一个非常好的知识库：
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
-
-### [xjq7/books](https://github.com/xjq7/books)
-
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
 ## 🕸 网站 
 
-### [removerized](https://removerized.tech/)
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
-当然了，模型效果对一些图片比不上一些收费的。 
+### [calltoinspiration](https://calltoinspiration.com/)
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+### [FRE321](https://www.fre321.com/)
 
-### [privacytools.io](https://www.privacytools.io/)
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
 ## ✍️ 说明
 
