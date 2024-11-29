@@ -5,108 +5,93 @@
 
 ## 🎯 项目 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
+程序员在家做饭方法指南。 
 
-一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
+### [privaxy](https://github.com/Barre/privaxy)
 
-![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
-
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
-
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
 ## 🤖 软件 
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-源的话推荐：
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-- https://decrypt.day/library
-- https://ipa.store/
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-就是有些 APP 偶尔会崩溃。 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
+还有其他推荐的：
 
-一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
-
-![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
 ## 👀 资料 
 
-### [BGC](https://beej.us/guide/bgc/)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-面向初学者的 C 语言教程：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+以非常直观的语言介绍`pytorch`：
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [newsminimalist](https://www.newsminimalist.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+基于 `GPT` 实现的新闻过滤网站：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
 
-### [FRE321](https://www.fre321.com/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
-
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
 ## ✍️ 说明
 
