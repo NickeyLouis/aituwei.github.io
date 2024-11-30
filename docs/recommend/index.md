@@ -5,93 +5,102 @@
 
 ## 🎯 项目 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+艺术二维码生成器：
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-程序员在家做饭方法指南。 
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-### [privaxy](https://github.com/Barre/privaxy)
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+开源的小说下载脚本项目，输出格式为 `EPUB`：
+
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+全平台支持的图片压缩软件：
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+### [Polybar](https://github.com/polybar/polybar)
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
 
-### [Screenity](https://github.com/alyssaxuu/screenity)
+![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
 
-🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-还有其他推荐的：
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-- https://github.com/lihaoyun6/QuickRecorder
-- https://github.com/wulkano/Kap 
+简单来说，这款软件能看什么取决与你用什么插件：
+
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### 认知偏差知识手册
 
-以非常直观的语言介绍`pytorch`：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [remixicon](https://remixicon.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-基于 `GPT` 实现的新闻过滤网站：
+效果非常好的图片压缩工具：
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 
