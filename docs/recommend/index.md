@@ -5,102 +5,83 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [instantbox](https://github.com/instantbox/instantbox)
 
-艺术二维码生成器：
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+### [greppo](https://github.com/greppo-io/greppo)
 
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
+快速轻松地构建部署地理空间应用程序：
 
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
-
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-全平台支持的图片压缩软件：
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-### [Polybar](https://github.com/polybar/polybar)
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+### [shotcut](https://github.com/mltframework/shotcut)
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
-
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
-
-简单来说，这款软件能看什么取决与你用什么插件：
-
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
 ## 👀 资料 
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
-### 认知偏差知识手册
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+麻省理工出品的免费电子书《理解深度学习》：
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
 ## 🕸 网站 
 
-### [remixicon](https://remixicon.com/)
+### [relationship](https://passer-by.com/relationship/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+中国亲戚关系计算器：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-效果非常好的图片压缩工具：
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [etempmail](https://etempmail.com/zh)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
 ## ✍️ 说明
 
