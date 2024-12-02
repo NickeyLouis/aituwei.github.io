@@ -5,83 +5,84 @@
 
 ## 🎯 项目 
 
-### [instantbox](https://github.com/instantbox/instantbox)
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [plane](https://github.com/makeplane/plane)
 
-快速轻松地构建部署地理空间应用程序：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-### [websocketd](https://github.com/joewalnes/websocketd)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
+功能挺全面的一个调查问卷系统：
 
-![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
 ## 🤖 软件 
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+### [lettura](https://github.com/zhanglun/lettura)
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
 
-### [shotcut](https://github.com/mltframework/shotcut)
+### [kobi](https://github.com/niuhuan/kobi)
 
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+一个简洁大方的跨平台漫画客户端：
 
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
 ## 👀 资料 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [just-react](https://github.com/BetaSu/just-react)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-麻省理工出品的免费电子书《理解深度学习》：
-
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [firefly](https://firefly.adobe.com/)
 
-中国亲戚关系计算器：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [readecho.cn](https://readecho.cn/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
-### [etempmail](https://etempmail.com/zh)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
 ## ✍️ 说明
 
