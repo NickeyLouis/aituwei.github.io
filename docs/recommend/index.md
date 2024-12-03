@@ -5,84 +5,94 @@
 
 ## 🎯 项目 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [typst](https://github.com/typst/typst)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+- 内置常见格式任务的标记
+- 灵活的功能用于其他所有任务
+- 紧密集成的脚本系统
+- 数学排版、参考文献管理等功能
+- 通过增量编译实现快速编译时间
+- 友好错误提示以防出错
 
-### [plane](https://github.com/makeplane/plane)
+专注于您的文本，让Typst来处理布局和格式。
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+### [hoarder](https://github.com/hoarder-app/hoarder)
 
-### [surveyking](https://github.com/javahuang/surveyking)
+为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
 
-功能挺全面的一个调查问卷系统：
+![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+### [restic](https://github.com/restic/restic)
+
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-### [kobi](https://github.com/niuhuan/kobi)
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-一个简洁大方的跨平台漫画客户端：
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
+
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
+
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [just-react](https://github.com/BetaSu/just-react)
+### [xjq7/books](https://github.com/xjq7/books)
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
-
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
 ## 🕸 网站 
 
-### [firefly](https://firefly.adobe.com/)
+### [http.cat](https://http.cat)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [readecho.cn](https://readecho.cn/)
+### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+一个可以免费使用的大模型 API 合集网站：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
