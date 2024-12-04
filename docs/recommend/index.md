@@ -5,94 +5,88 @@
 
 ## 🎯 项目 
 
-### [typst](https://github.com/typst/typst)
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-- 内置常见格式任务的标记
-- 灵活的功能用于其他所有任务
-- 紧密集成的脚本系统
-- 数学排版、参考文献管理等功能
-- 通过增量编译实现快速编译时间
-- 友好错误提示以防出错
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-专注于您的文本，让Typst来处理布局和格式。
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-### [hoarder](https://github.com/hoarder-app/hoarder)
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-### [restic](https://github.com/restic/restic)
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
-
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+### [Codeium](https://codeium.com/)
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
-
-这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
-
-![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [note-hack](https://github.com/xdite/note-hack)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+代码整洁之道（javascript版本）：
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [http.cat](https://http.cat)
+### [batnoter](https://batnoter.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [regex.ai](https://regex.ai/)
 
-一个可以免费使用的大模型 API 合集网站：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
