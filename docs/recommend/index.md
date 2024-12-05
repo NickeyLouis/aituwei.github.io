@@ -5,88 +5,83 @@
 
 ## 🎯 项目 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+一个开源的快速制作文章封面图的工具。
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
-
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [legado](https://github.com/gedoor/legado)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [Codeium](https://codeium.com/)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-代码整洁之道（javascript版本）：
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [extract.pics](https://extract.pics/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+输入网站地址，提取网站图片资源：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [aspoem](https://aspoem.com/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [seesaw](https://www.seesaw.website/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
 ## ✍️ 说明
 
