@@ -5,11 +5,25 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
+
+### [TheTNB_panel](https://github.com/TheTNB/panel)
+
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
+
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
+
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
 
 ### [CoverView](https://github.com/rutikwankhade/CoverView)
 
@@ -17,71 +31,73 @@
 
 ![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
-
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
-
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
-
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
-### [legado](https://github.com/gedoor/legado)
+### [jan](https://github.com/janhq/jan)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+目前体验这三款，这个用户体验最好。 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
 ## 🕸 网站 
 
-### [extract.pics](https://extract.pics/)
+### [it-tools](https://it-tools.tech/)
 
-输入网站地址，提取网站图片资源：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [aspoem](https://aspoem.com/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
+老照片修复工具，同时还提供上色和去背景功能：
 
-### [seesaw](https://www.seesaw.website/)
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+### [lucide](https://lucide.dev/)
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+开源图标库，可以直接下载 `SVG`：
+
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
