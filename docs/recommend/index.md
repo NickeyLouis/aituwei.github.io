@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [heyform](https://github.com/heyform/heyform)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [ossart](https://github.com/djyde/ossart)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+### [cadvisor](https://github.com/google/cadvisor)
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-### [Feeddd](https://github.com/feeddd/feeds)
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
+
+### [amis](https://github.com/baidu/amis)
+
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [Vieb](https://vieb.dev/)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-学习 `javascript` 的开源书籍：
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-对于前端开发者来说应该是一个非常好的知识库：
-
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
-
-### [RedHat E-Book](https://developers.redhat.com/e-books)
-
-`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
-
-![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
 ## 🕸 网站 
 
-### [喵闪字库](https://www.miao3.cn/)
+### [cook](https://github.com/YunYouJun/cook)
 
-喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [css.gg](https://css.gg/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+`700+` 基于 `CSS` 的图标：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [scrnshts.club](https://scrnshts.club/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
 ## ✍️ 说明
 
