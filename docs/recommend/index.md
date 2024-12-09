@@ -5,87 +5,88 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [memories](https://github.com/pulsejet/memories)
 
-### [cadvisor](https://github.com/google/cadvisor)
+构建于 `Nextcloud` 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：
 
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
 
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
-
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
-
-### [amis](https://github.com/baidu/amis)
-
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
 ## 👀 资料 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+对 `SEO` 有兴趣可以看看：
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+### [Web Development History](https://webdevelopmenthistory.com/index/)
+
+`Web` 开发发展史文章系列：
+
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
 ## 🕸 网站 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [网道](https://wangdoc.com/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [css.gg](https://css.gg/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-`700+` 基于 `CSS` 的图标：
+### [ray.so](https://ray.so/)
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-### [scrnshts.club](https://scrnshts.club/)
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+### [itnext](https://itnext.cn/)
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+一个介绍元宇宙的网站：
+
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
