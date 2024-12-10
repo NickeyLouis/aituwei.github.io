@@ -5,11 +5,11 @@
 
 ## 🎯 项目 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [NocoDB](https://github.com/nocodb/nocodb)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
 
 ### [memories](https://github.com/pulsejet/memories)
 
@@ -17,76 +17,80 @@
 
 ![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
 
-### [background-removal-js](https://github.com/imgly/background-removal-js)
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
+用 `GPT-3` 来解读论文的开源项目：
 
-![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [libpag](https://github.com/Tencent/libpag)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+源的话推荐：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+- https://decrypt.day/library
+- https://ipa.store/
+
+就是有些 APP 偶尔会崩溃。 
+
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-对 `SEO` 有兴趣可以看看：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [uxbaike](https://uxbaike.com/)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+UX 百科，属于设计师的专业知识库：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-`Web` 开发发展史文章系列：
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+一个免费教授人们如何修理任何物品的网站：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [apitracker](https://apitracker.io/)
 
-### [ray.so](https://ray.so/)
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+### [send.internxt.com](https://send.internxt.com/)
 
-### [itnext](https://itnext.cn/)
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-一个介绍元宇宙的网站：
-
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
 ## ✍️ 说明
 
