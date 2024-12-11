@@ -5,92 +5,107 @@
 
 ## 🎯 项目 
 
-### [NocoDB](https://github.com/nocodb/nocodb)
+### [ChatTTS](https://github.com/2noise/ChatTTS)
 
-将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
+`ChatTTS` 是专门为对话场景设计的文本转语音模型，例如 `LLM` 助手对话任务，它支持英文和中文两种语言，最大的模型使用了10万小时以上的中英文数据进行训练：
 
-![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
+- 对话式 TTS: ChatTTS针对对话式任务进行了优化，实现了自然流畅的语音合成，同时支持多说话人。
+- 细粒度控制: 该模型能够预测和控制细粒度的韵律特征，包括笑声、停顿和插入词等。
+- 更好的韵律: ChatTTS在韵律方面超越了大部分开源TTS模型。同时提供预训练模型，支持进一步的研究。
 
-### [memories](https://github.com/pulsejet/memories)
+效果挺好的，相关 `Web UI` 有 [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) 项目：
 
-构建于 `Nextcloud` 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：
+![ChatTTS](https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg) 
 
-![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-用 `GPT-3` 来解读论文的开源项目：
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+### [certd](https://github.com/certd/certd)
+
+`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
+
+![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
 
 ## 🤖 软件 
 
-### [libpag](https://github.com/Tencent/libpag)
+### [lapce](https://github.com/lapce/lapce)
 
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
 
-源的话推荐：
+- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
+- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
 
-- https://decrypt.day/library
-- https://ipa.store/
+对于浏览器双语翻译插件，还推荐以下项目：
 
-就是有些 APP 偶尔会崩溃。 
+- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
+- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-### [uxbaike](https://uxbaike.com/)
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-UX 百科，属于设计师的专业知识库：
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+`Solidity` 极简入门：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
 ## 🕸 网站 
 
-### [ifixit](https://zh.ifixit.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-一个免费教授人们如何修理任何物品的网站：
+文字生成图片网站，效果和速度都还可以：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [apitracker](https://apitracker.io/)
+### [sci-hub](https://sci-hub.se/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [send.internxt.com](https://send.internxt.com/)
+用户可通过以下方式访问新版本：
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+
+### [carbon](https://carbon.now.sh/)
+
+将你的源代码转成漂亮可分享的图片：
+
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
 ## ✍️ 说明
 
