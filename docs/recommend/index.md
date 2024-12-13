@@ -5,100 +5,103 @@
 
 ## 🎯 项目 
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-`Typecho` 微信朋友圈主题:
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-### [dockge](https://github.com/louislam/dockge)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-`Portainer` 也是不错的选择。 
+### [amprobe](https://github.com/amuluze/amprobe)
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
 
-基于 `ChatGPT` 相关接口衍生的项目：
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+暂时还不支持多机器关联，期待作者更新：
+
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
 ## 🤖 软件 
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-一个 `Bilibili` 第三方音频播放器：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-### [Joplin](https://github.com/laurent22/joplin)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+### [orange](https://github.com/naaive/orange)
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+基于`Rust`跨平台的文件搜索引擎：
 
-> 这篇文章也是使用Joplin写的 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
-
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-### [eloquentjavascript](https://eloquentjavascript.net/)
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
-作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
+《结网》作者王坚的开源新书：
 
-### [just-react](https://github.com/BetaSu/just-react)
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+### [水印宝](https://watermark.chiloh.cn/)
 
-快速明确自己想要的开源许可证：
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-基于 `GPT` 实现的新闻过滤网站：
+@妙才投稿，在线学习git命令的网站：
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [favoree.io](https://www.favoree.io/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
 ## ✍️ 说明
 
