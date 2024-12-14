@@ -5,103 +5,89 @@
 
 ## 🎯 项目 
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+### [ossart](https://github.com/djyde/ossart)
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
 
-### [amprobe](https://github.com/amuluze/amprobe)
+### [novel](https://github.com/steven-tey/novel)
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
-
-暂时还不支持多机器关联，期待作者更新：
-
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
 ## 🤖 软件 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [1Remote](https://github.com/1Remote/1Remote)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-### [orange](https://github.com/naaive/orange)
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-基于`Rust`跨平台的文件搜索引擎：
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
 
-《结网》作者王坚的开源新书：
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+《精通比特币》第三版翻译：
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
-
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [dll-files](https://cn.dll-files.com/)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-@妙才投稿，在线学习git命令的网站：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [favoree.io](https://www.favoree.io/)
+### [zerossl](https://zerossl.com/)
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
 
 ## ✍️ 说明
 
