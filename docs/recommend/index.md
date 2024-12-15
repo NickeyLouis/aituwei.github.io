@@ -5,89 +5,109 @@
 
 ## 🎯 项目 
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-### [ossart](https://github.com/djyde/ossart)
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
 
-### [novel](https://github.com/steven-tey/novel)
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [1Remote](https://github.com/1Remote/1Remote)
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-- ⭐ 开源且免费
-- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
-- ⭐ 多屏幕、高分辨率的 RDP 支持
-- ⭐ 一键打开你的远程连接 (Alt + M)
-- ⭐ 单个服务器配置中允许存储多个地址和账号
-- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
-- ⭐ 易于部署，仅需解压就能运行
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
+支持 `web` & 跨平台访问：
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+### [NetNewsWire](https://netnewswire.com/)
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+一份循序渐进的 `k8s` 教程：
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-《精通比特币》第三版翻译：
+### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
 
 ## 🕸 网站 
 
-### [dll-files](https://cn.dll-files.com/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [stockai.trade](https://stockai.trade)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+### [bookmark.style](https://www.bookmark.style/)
 
-### [zerossl](https://zerossl.com/)
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
