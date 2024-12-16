@@ -5,109 +5,89 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [duf](https://github.com/sigoden/duf)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [yft-design](https://github.com/dromara/yft-design)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
-
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-支持 `web` & 跨平台访问：
+### [namida](https://github.com/namidaco/namida)
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-### [NetNewsWire](https://netnewswire.com/)
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
-
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
-
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
-
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
 ## 👀 资料 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-一份循序渐进的 `k8s` 教程：
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
+为初学者整理的免费 `CSS` 课程：
 
-本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-### [stockai.trade](https://stockai.trade)
+### [ailogo](https://ailogo.qq.com/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+`AI` 智能生成可商用的 `LOGO`：
 
-### [bookmark.style](https://www.bookmark.style/)
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+### [echoserver](https://echoserver.dev/)
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
 ## ✍️ 说明
 
