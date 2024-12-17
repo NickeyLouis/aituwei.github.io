@@ -5,89 +5,106 @@
 
 ## 🎯 项目 
 
-### [duf](https://github.com/sigoden/duf)
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-### [yft-design](https://github.com/dromara/yft-design)
+### [neko](https://github.com/m1k1o/neko)
 
-基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
+可在服务器上运行的浏览器，核心功能如下：
 
-![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
+- 娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很**自由**
+- 公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性
+- 还有权限管理，也很方便远程演示，操作也还是很流畅的
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+![neko](https://images-1252557999.file.myqcloud.com/uPic/neko.jpg) 
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
-
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
 ## 🤖 软件 
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+### [insomnia](https://github.com/Kong/insomnia)
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [namida](https://github.com/namidaco/namida)
+### [bruno](https://github.com/usebruno/bruno)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+重新分类 Leetcode 高频题 2021 版
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+- NLP
+- CV
+- Time Series
 
-为初学者整理的免费 `CSS` 课程：
+目录概览：
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+
+### [Getting Real](https://basecamp.com/gettingreal)
+
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
 
 ## 🕸 网站 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [FRE321](https://www.fre321.com/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-### [ailogo](https://ailogo.qq.com/)
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
-`AI` 智能生成可商用的 `LOGO`：
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-### [echoserver](https://echoserver.dev/)
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
