@@ -5,99 +5,102 @@
 
 ## 🎯 项目 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-目前产品形态只有 `Web` 和 `Android`。 
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
 
-### [think](https://github.com/fantasticit/think)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+### [questdb](https://github.com/questdb/questdb)
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+
+特别是针对时间序列数据做了处理：
+
+![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
 
 ## 🤖 软件 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [video2blog](https://github.com/aehyok/video2blog)
 
-让窗口管理 `MacOS` 变得优雅：
+视频转图文 AI 跨平台客户端：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
-安装好如果有权限问题，执行如下命令：
+### [Speechless](https://github.com/meterscao/Speechless)
 
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
-
-`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
-
-![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-清华大学计算机系课程攻略：
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+一份面向 `Docker` 初学者的教程：
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-为你的Github开源项目生成贡献者头像集合：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [emojiall](https://www.emojiall.com/)
+### [whatpwacando](https://whatpwacando.today/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+该网站功能用于介绍 PWA 的技术进展：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [echoserver](https://echoserver.dev/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
 ## ✍️ 说明
 
