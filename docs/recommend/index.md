@@ -5,102 +5,96 @@
 
 ## 🎯 项目 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [questdb](https://github.com/questdb/questdb)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
-
-特别是针对时间序列数据做了处理：
-
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
 
 ## 🤖 软件 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+超方便的微信视频号下载器：
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [video2blog](https://github.com/aehyok/video2blog)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-视频转图文 AI 跨平台客户端：
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-### [Speechless](https://github.com/meterscao/Speechless)
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+
+![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
 
 ## 👀 资料 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+一份 `Midjourney` 学习教程：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+《精通比特币》第三版翻译：
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [2d2d](https://2d2d.io/)
 
-一份面向 `Docker` 初学者的教程：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [cikeee](https://www.cikeee.com/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+每天推荐一部优秀的电影：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [yima.me](https://yima.me/)
 
-该网站功能用于介绍 PWA 的技术进展：
+免费生成 `AI` 艺术二维码：
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [echoserver](https://echoserver.dev/)
+### [openbookshongkong](https://openbookshongkong.com/book/)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
 
 ## ✍️ 说明
 
