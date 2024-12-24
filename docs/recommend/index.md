@@ -5,96 +5,96 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-### [homepage](https://github.com/benphelps/homepage)
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-高度可定制的首页仪表板应用项目：
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+### [surveyking](https://github.com/javahuang/surveyking)
 
-### [sql-studio](https://github.com/frectonz/sql-studio)
+功能挺全面的一个调查问卷系统：
 
-SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
-```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
-# 以周刊数据库为例
-sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```
+### [SearXNG](https://github.com/searxng/searxng)
 
-这样通过 Web 即可查看数据库信息：
+`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
 
-- 数据库整体元数据信息概览
-- 表格数据浏览
-- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
-
-![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
 
 ## 🤖 软件 
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+`Notepad++`的跨平台开源实现：
 
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [Hiddify](https://github.com/hiddify/hiddify-next)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+挺好用的网络代理软件，现在主用这个：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
 ## 👀 资料 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-为初学者整理的免费 `CSS` 课程：
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+计算机科学课程和视频讲座列表：
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [openart.ai](https://openart.ai/)
 
-一个可以免费使用的大模型 API 合集网站：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [网道](https://wangdoc.com/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [tgscan](https://tgscan.xyz/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
