@@ -5,96 +5,104 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [bore](https://github.com/ekzhang/bore)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-### [surveyking](https://github.com/javahuang/surveyking)
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-功能挺全面的一个调查问卷系统：
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+### [qinglong](https://github.com/whyour/qinglong)
 
-### [SearXNG](https://github.com/searxng/searxng)
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
 ## 🤖 软件 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [1Remote](https://github.com/1Remote/1Remote)
 
-`Notepad++`的跨平台开源实现：
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-### [Hiddify](https://github.com/hiddify/hiddify-next)
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-挺好用的网络代理软件，现在主用这个：
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
+
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+非常全面，前端从事人员可以看看。 
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-计算机科学课程和视频讲座列表：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [openart.ai](https://openart.ai/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
-### [网道](https://wangdoc.com/)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+将 GPT LLM 大模型进行可视化分析：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [warp.dev](https://www.warp.dev/)
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
-
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
-
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
 ## ✍️ 说明
 
