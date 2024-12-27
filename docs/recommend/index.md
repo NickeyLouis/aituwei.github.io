@@ -5,86 +5,79 @@
 
 ## 🎯 项目 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-一个终端打字应用程序，以提高你的手指水平！
-
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ## 🤖 软件 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [Mos](https://github.com/Caldis/Mos)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### [Poe Client](https://poe.com/download)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [epubkit](https://beta.epubkit.app/)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+挺多人有这种需求的，将网页转化成电子书：
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
 ## 👀 资料 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-强化学习中文教程：
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
-
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
-
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [wanqu.co](https://www.wanqu.co/)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+### [eja.tv](https://eja.tv/?)
 
-### [法律时代导航](https://yesen.cn/)
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
-
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
