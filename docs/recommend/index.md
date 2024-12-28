@@ -5,79 +5,107 @@
 
 ## 🎯 项目 
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+关于模拟器项目：
+- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
+- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
+- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [staxrip](https://github.com/staxrip/staxrip)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [image-matting](https://github.com/pangxiaobin/image-matting)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
 
-### [epubkit](https://beta.epubkit.app/)
+还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
 
-挺多人有这种需求的，将网页转化成电子书：
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
 ## 👀 资料 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+
+18 个模块 100 个 AI 工具：
+
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
 ## 🕸 网站 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+`GitHub` 最大的开源算法库：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
