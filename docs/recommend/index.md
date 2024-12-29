@@ -5,107 +5,94 @@
 
 ## 🎯 项目 
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+### [alist](https://github.com/Xhofe/alist)
 
-### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-一个用于安装/更新 NS 模拟器的工具：
-- 支持安装 Yuzu EA/正式 版模拟器
-- 支持 Yuzu 版本检测及更新
-- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
-- 支持 Ryujinx 版本检测及更新
-- 自动检测并安装 msvc 运行库
-- 支持安装及更新 NS 固件至模拟器
-- 支持固件版本检测
-- 管理模拟器密钥
-- Yuzu 金手指管理
-- aria2 多线程下载
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-关于模拟器项目：
-- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
-- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
-- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+一款简洁实用优雅的高性能个人博客系统：
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
-
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
 ## 🤖 软件 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [pixzip-lite](https://github.com/richhost/pixzip-lite)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
 
-### [image-matting](https://github.com/pangxiaobin/image-matting)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+虽然这个是个付费软件，但我还是很推荐：
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+开源书籍，`Prometheus`  操作指南：
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+### [note-hack](https://github.com/xdite/note-hack)
 
-18 个模块 100 个 AI 工具：
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
 ## 🕸 网站 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [apk.bot](https://apk.bot/)
 
-`GitHub` 最大的开源算法库：
+免费无广告的 `APK` 下载网站：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+文字生成图片网站，效果和速度都还可以：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
 ## ✍️ 说明
 
