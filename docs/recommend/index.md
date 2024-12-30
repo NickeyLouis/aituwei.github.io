@@ -5,94 +5,93 @@
 
 ## 🎯 项目 
 
-### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
+### [Monit](https://github.com/fzf404/Monit)
 
-一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
+系统桌面小组件(用于展示各种信息)：
 
-### [alist](https://github.com/Xhofe/alist)
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-一款简洁实用优雅的高性能个人博客系统：
+NAS媒体库资源归集、整理自动化工具：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
 ## 🤖 软件 
 
-### [pixzip-lite](https://github.com/richhost/pixzip-lite)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
+沉浸式双语网页翻译扩展：
 
-![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+### [eoapi](https://github.com/eolinker/eoapi)
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
-虽然这个是个付费软件，但我还是很推荐：
+### [ptg](https://github.com/crossoverJie/ptg)
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
-
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-开源书籍，`Prometheus`  操作指南：
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [rust-course](https://github.com/sunface/rust-course)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### [note-hack](https://github.com/xdite/note-hack)
+阅读地址见[course.rs](https://course.rs)。 
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+PyTorch 从0到精通教程：
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
 ## 🕸 网站 
 
-### [apk.bot](https://apk.bot/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-免费无广告的 `APK` 下载网站：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [flowgpt](https://flowgpt.com/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+一个分享ChatGPT提示的网站：
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [ipdetective](https://ipdetective.io/api)
 
-文字生成图片网站，效果和速度都还可以：
+检测 `ip` 是否是机器人：
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
 ## ✍️ 说明
 
