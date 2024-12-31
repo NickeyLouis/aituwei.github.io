@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [Monit](https://github.com/fzf404/Monit)
+### [moffee](https://github.com/BMPixel/moffee)
 
-系统桌面小组件(用于展示各种信息)：
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
+### [autocut](https://github.com/mli/autocut)
 
-全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+### [pic-smaller](https://github.com/joye61/pic-smaller)
 
-NAS媒体库资源归集、整理自动化工具：
+图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
 
 ## 🤖 软件 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-沉浸式双语网页翻译扩展：
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [eoapi](https://github.com/eolinker/eoapi)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+我的必备软件：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+- NLP
+- CV
+- Time Series
 
-### [rust-course](https://github.com/sunface/rust-course)
+目录概览：
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+### [svg-tutorial](https://svg-tutorial.com/)
 
-阅读地址见[course.rs](https://course.rs)。 
+学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
 
-PyTorch 从0到精通教程：
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-一个分享ChatGPT提示的网站：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [ipdetective](https://ipdetective.io/api)
+### [sci-hub](https://sci-hub.se/)
 
-检测 `ip` 是否是机器人：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
