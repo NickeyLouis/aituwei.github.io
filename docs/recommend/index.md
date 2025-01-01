@@ -5,79 +5,73 @@
 
 ## 🎯 项目 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+一些 `Docker Compose` 的实践示例。 
 
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+### [alist](https://github.com/Xhofe/alist)
 
-### [autocut](https://github.com/mli/autocut)
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-### [pic-smaller](https://github.com/joye61/pic-smaller)
+### [freed](https://github.com/YuanHsing/freed)
 
-图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
-
-![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-### [uPic](https://github.com/gee1k/uPic)
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-我的必备软件：
+使用 Android 原生开发的电视直播软件：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-### [ShareX](https://github.com/ShareX/ShareX)
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
 
-- NLP
-- CV
-- Time Series
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-目录概览：
+PyTorch 从0到精通教程：
 
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+`OpenAI` 出品的的深度强化学习教程：
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
-
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
-
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
 ## 🕸 网站 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [unDraw](https://undraw.co/illustrations)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
@@ -85,19 +79,11 @@
 
 ![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [sci-hub](https://sci-hub.se/)
+### [tldraw](https://www.tldraw.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+小巧强大的在线绘图工具：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
-
-用户可通过以下方式访问新版本：
-
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
