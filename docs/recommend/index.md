@@ -5,85 +5,96 @@
 
 ## 🎯 项目 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [upptime](https://github.com/upptime/upptime)
 
-一些 `Docker Compose` 的实践示例。 
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-### [alist](https://github.com/Xhofe/alist)
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+
+![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
 
 ## 🤖 软件 
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-使用 Android 原生开发的电视直播软件：
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
-
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
 ## 👀 资料 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-PyTorch 从0到精通教程：
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-`OpenAI` 出品的的深度强化学习教程：
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+技术面试最后反问面试官的话。 
+
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
+
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [trendingpapers](https://trendingpapers.com)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [watermarkremover](https://www.watermarkremover.io/)
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+通过AI技术去除图片水印：
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+### [fancymacbook](https://fancymacbook.app/)
 
-### [tldraw](https://www.tldraw.com/)
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-小巧强大的在线绘图工具：
-
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
