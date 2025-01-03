@@ -5,96 +5,100 @@
 
 ## 🎯 项目 
 
-### [upptime](https://github.com/upptime/upptime)
+### [greppo](https://github.com/greppo-io/greppo)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+快速轻松地构建部署地理空间应用程序：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+带看板的开源项目管理工具:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+简单来说，这款软件能看什么取决与你用什么插件：
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+重新分类 Leetcode 高频题 2021 版
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-技术面试最后反问面试官的话。 
-
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
-
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
-
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
-
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
 ## 🕸 网站 
 
-### [trendingpapers](https://trendingpapers.com)
+### [FindPng](https://www.findpng.com/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [识典古籍](https://www.shidianguji.com/)
 
-通过AI技术去除图片水印：
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [小鱼速读](http://www.xysudu.com/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
 ## ✍️ 说明
 
