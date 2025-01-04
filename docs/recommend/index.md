@@ -5,100 +5,97 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-快速轻松地构建部署地理空间应用程序：
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-带看板的开源项目管理工具:
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+### [samila](https://github.com/sepandhaghighi/samila)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
-
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
-
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [bloop](https://github.com/BloopAI/bloop)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-简单来说，这款软件能看什么取决与你用什么插件：
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
-
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+目前也提供了中文版：
 
-重新分类 Leetcode 高频题 2021 版
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
 ## 🕸 网站 
 
-### [FindPng](https://www.findpng.com/)
+### [sao.fm](https://sao.fm/)
 
-一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
+一个在线听广播电台的网站：
 
-![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [dev.to](https://dev.to/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
-
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
 ## ✍️ 说明
 
