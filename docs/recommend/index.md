@@ -5,97 +5,89 @@
 
 ## 🎯 项目 
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+### [cnchar](https://github.com/theajack/cnchar)
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-### [samila](https://github.com/sepandhaghighi/samila)
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+### [puter](https://github.com/HeyPuter/puter)
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
+
+![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
 
 ## 🤖 软件 
 
-### [bloop](https://github.com/BloopAI/bloop)
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [NetNewsWire](https://netnewswire.com/)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [AniVu](https://github.com/SkyD666/AniVu)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-- 订阅 RSS、更新 RSS、阅读 RSS
-- 自动更新 RSS 订阅
-- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
-- 已下载文件做种
-- 播放媒体附件或已下载的媒体文件
-- 更改播放速度、设置音轨、字幕轨道等
-- 双指旋转缩放视频画面、长按视频倍速播放
-- 滑动调整音量、屏幕亮度和播放位置
-- 支持搜索已获取的 RSS 订阅或文章
-- 播放手机中的其他视频
-- 支持自定义 MPV 播放器
-- 支持通过 OPML 导入导出订阅
-- 支持深色模式
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-目前也提供了中文版：
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [go101](https://gfw.go101.org/article/101.html)
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
-
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
 ## 🕸 网站 
 
-### [sao.fm](https://sao.fm/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-一个在线听广播电台的网站：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-### [dev.to](https://dev.to/)
+### [flowgpt](https://flowgpt.com/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+一个分享ChatGPT提示的网站：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [FindPng](https://www.findpng.com/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
 
 ## ✍️ 说明
 
