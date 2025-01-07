@@ -5,106 +5,90 @@
 
 ## 🎯 项目 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+同种类型应用参考：
 
-### [doocs/md](https://github.com/doocs/md)
+- https://www.perplexity.ai
+- https://devv.ai/ 
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [amis](https://github.com/baidu/amis)
 
-### [btop](https://github.com/aristocratos/btop)
-
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
-
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
+### [proxypin](https://github.com/wanghongenpin/proxypin)
 
-「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
 
-![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+虽然这个是个付费软件，但我还是很推荐：
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [go101](https://gfw.go101.org/article/101.html)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
 ## 🕸 网站 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+金山出品的 PDF 免费工具集：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [screenshot](https://screenshot.rocks/)
 
-### [selfh](https://selfh.st/)
+快速创建精美的移动和浏览器屏幕截图：
 
-网站提供了可自建项目的动态，每周更新：
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-### [ICO converter](https://www.icoconverter.com/)
+将你的头像像素化，质量挺好：
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
-
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
 ## ✍️ 说明
 
