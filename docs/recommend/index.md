@@ -5,90 +5,112 @@
 
 ## 🎯 项目 
 
-### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
+艺术二维码生成器：
 
-![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-同种类型应用参考：
+### [koishi](https://koishi.chat/zh-CN/)
 
-- https://www.perplexity.ai
-- https://devv.ai/ 
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-### [amis](https://github.com/baidu/amis)
+Nginx 后台管理UI：
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
+
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
 ## 🤖 软件 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [Tai](https://github.com/Planshit/Tai)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-虽然这个是个付费软件，但我还是很推荐：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
-
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+一本小书《带你入门前端工程》
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
+
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-金山出品的 PDF 免费工具集：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-快速创建精美的移动和浏览器屏幕截图：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [ifixit](https://zh.ifixit.com/)
 
-将你的头像像素化，质量挺好：
+一个免费教授人们如何修理任何物品的网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
