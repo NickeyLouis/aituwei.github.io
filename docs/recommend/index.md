@@ -5,112 +5,81 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [moffee](https://github.com/BMPixel/moffee)
 
-艺术二维码生成器：
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
-### [koishi](https://koishi.chat/zh-CN/)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+### [dootask](https://github.com/kuaifan/dootask)
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-Nginx 后台管理UI：
-
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
-
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
 ## 🤖 软件 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [winlator](https://github.com/brunodev85/winlator)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+### [stretchly](https://github.com/hovancik/stretchly)
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
-
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
-
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-一本小书《带你入门前端工程》
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
-![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+对 `SEO` 有兴趣可以看看：
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
-
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
-
-非常全面，前端从事人员可以看看。 
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [trending.design](https://trending.design/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+收集一些在 𝕏(twitter) 上的最佳设计灵感：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-一个免费教授人们如何修理任何物品的网站：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
 ## ✍️ 说明
 
