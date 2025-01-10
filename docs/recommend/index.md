@@ -5,81 +5,96 @@
 
 ## 🎯 项目 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [DocsGPT](https://github.com/arc53/DocsGPT)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
 
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-### [dootask](https://github.com/kuaifan/dootask)
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
 ## 🤖 软件 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [iina](https://github.com/iina/iina)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-### [winlator](https://github.com/brunodev85/winlator)
+### [gkd](https://github.com/gkd-kit/gkd)
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+基于 **无障碍** + **高级选择器** + **订阅规则** 的自定义屏幕点击 `APP`：
 
-### [stretchly](https://github.com/hovancik/stretchly)
+- 点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
+- 一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+开源版李跳跳：
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![www.yalijuda.com_gkd_sXGlMJqpfS](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg) 
+
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
+
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+计算机科学课程和视频讲座列表：
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+健康学习到150岁 - 人体系统调优不完全指南：
 
-对 `SEO` 有兴趣可以看看：
-
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
 ## 🕸 网站 
 
-### [trending.design](https://trending.design/)
+### [caniuse](https://caniuse.com/)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [mlsub](https://mlsub.net/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [识典古籍](https://www.shidianguji.com/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
 ## ✍️ 说明
 
