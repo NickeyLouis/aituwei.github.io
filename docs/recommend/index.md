@@ -5,99 +5,104 @@
 
 ## 🎯 项目 
 
-### [fre123-nav](https://github.com/fre123-com/fre123-nav)
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
 
-这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
 
-- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
-- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
-- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
-![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
+### [minaplay](https://github.com/nepsyn/minaplay)
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+一个用于追番/追剧的个人媒体库，`MinaPlay` 根据用户创建的 `RSS` 订阅源、订阅规则自动下载媒体文件并生成描述信息：
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+- 追番/追剧服务，个性化配置 RSS 订阅源、下载规则，打造独一无二属于自己的追番/追剧管家。
+- 同步观影放映室，支持聊天消息和多人语音，叫上好朋友一起观影共享欢乐。
+- 通知服务高度可拓展、可自定义模板，新内容的更新时间不再错过。
+- 插件系统简单易用，像使用命令行一样调用各种插件提供的服务。
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+![minaplay](https://images-1252557999.file.myqcloud.com/uPic/mLBst8.png) 
 
-### [chatnio](https://github.com/Deeptrain-Community/chatnio)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
 ## 🤖 软件 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [Hacki](https://github.com/Livinglist/Hacki)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+基于 `Flutter` 的  `Hacker News` 客户端:
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+高度可定制的macOS状态栏替代品：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [hetty](https://github.com/dstotijn/hetty)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
-
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-开发人员学习成长路线图：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [sideproject](https://sideproject.guide/)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+`Side Project` 指南：
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [emoji](https://github.com/cbh123/emoji)
+### [kkdaxue](https://www.kkdaxue.com/)
 
-用人工智能制作表情符号，在线地址👉https://emojigen.com/：
+高考志愿网站，发现各专业前辈们的学习建议：
 
-![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
+![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
 
-### [toonme](https://toonme.com)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-该网站将原图绘制成可爱的卡通图片：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+- 网站: https://wikipedia-semantic-search.vercel.app
+- 代码: https://github.com/upstash/wikipedia-semantic-search
+
+![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
 
 ## ✍️ 说明
 
