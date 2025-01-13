@@ -5,38 +5,44 @@
 
 ## 🎯 项目 
 
-### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+通过网络收集整理的中文歌词数据库, 包含:
 
-- 显示英文提示词的中文翻译
-- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
-- 为提示词进行分类（普通、样式、质量、命令）
-- 轻松的排序、隐藏提示词
-- 把提示词可视化结果导出为图片
-- 常用提示词词典
-- 通过 Notion 管理提示词词典
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
+作者基于此数据库做了两个歌词生成器：
 
-### [minaplay](https://github.com/nepsyn/minaplay)
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-一个用于追番/追剧的个人媒体库，`MinaPlay` 根据用户创建的 `RSS` 订阅源、订阅规则自动下载媒体文件并生成描述信息：
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-- 追番/追剧服务，个性化配置 RSS 订阅源、下载规则，打造独一无二属于自己的追番/追剧管家。
-- 同步观影放映室，支持聊天消息和多人语音，叫上好朋友一起观影共享欢乐。
-- 通知服务高度可拓展、可自定义模板，新内容的更新时间不再错过。
-- 插件系统简单易用，像使用命令行一样调用各种插件提供的服务。
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-![minaplay](https://images-1252557999.file.myqcloud.com/uPic/mLBst8.png) 
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-### [nocobase](https://github.com/nocobase/nocobase)
+### [album-ai](https://github.com/gcui-art/album-ai)
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
 
 ## 🤖 软件 
+
+### NewPipe
+
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
 ### [Hacki](https://github.com/Livinglist/Hacki)
 
@@ -44,65 +50,45 @@ NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，�
 
 ![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
-
-高度可定制的macOS状态栏替代品：
-
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
-
-### [hetty](https://github.com/dstotijn/hetty)
-
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
-
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
-
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [uxbaike](https://uxbaike.com/)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+UX 百科，属于设计师的专业知识库：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [sideproject](https://sideproject.guide/)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-`Side Project` 指南：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
-
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [kkdaxue](https://www.kkdaxue.com/)
+### [ideogram.ai](https://ideogram.ai/)
 
-高考志愿网站，发现各专业前辈们的学习建议：
+免费无次数限制的文字转图片网页：
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
+### [ouchn](https://le.ouchn.cn/#/home)
 
-对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-- 网站: https://wikipedia-semantic-search.vercel.app
-- 代码: https://github.com/upstash/wikipedia-semantic-search
-
-![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
 ## ✍️ 说明
 
