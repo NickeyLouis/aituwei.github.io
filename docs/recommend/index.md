@@ -5,44 +5,48 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-通过网络收集整理的中文歌词数据库, 包含:
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-作者基于此数据库做了两个歌词生成器：
+### [ladder](https://github.com/everywall/ladder)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
+- 完美支持对话隔离。
+- 对话接口支持流式返回。
+- 支持创建 `discord`分类/频道/线程。
+- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
+- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
+- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
+- 支持每日`24`点定时任务自动活跃机器人。
+- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
-
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
 
 ## 🤖 软件 
 
-### NewPipe
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+本地备份软件：
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
-
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
-
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ### [Hacki](https://github.com/Livinglist/Hacki)
 
@@ -50,45 +54,56 @@
 
 ![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
+### [BlogHelper](https://github.com/onblog/BlogHelper)
+
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-UX 百科，属于设计师的专业知识库：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+深度学习入门教程资料聚合项目，包含：
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-免费无次数限制的文字转图片网页：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+### [pingli.app](https://www.pingli.app/)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-### [ouchn](https://le.ouchn.cn/#/home)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
