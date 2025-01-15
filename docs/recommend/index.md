@@ -5,105 +5,85 @@
 
 ## 🎯 项目 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
-### [ladder](https://github.com/everywall/ladder)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
-
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-本地备份软件：
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-### [Hacki](https://github.com/Livinglist/Hacki)
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-基于 `Flutter` 的  `Hacker News` 客户端:
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+### [automa](https://github.com/Kholid060/automa)
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
-
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+对 `SEO` 有兴趣可以看看：
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-深度学习入门教程资料聚合项目，包含：
+在开源仓库可直接下载阅读。 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [new.space](https://new.space/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+免注册多人临时文件分享工具：
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
 
-### [pingli.app](https://www.pingli.app/)
+### [法律时代导航](https://yesen.cn/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [tldraw](https://www.tldraw.com/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+小巧强大的在线绘图工具：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
