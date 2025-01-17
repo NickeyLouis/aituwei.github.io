@@ -5,50 +5,50 @@
 
 ## 🎯 项目 
 
-### [ChatTTS](https://github.com/2noise/ChatTTS)
+### [answer](https://github.com/answerdev/answer)
 
-`ChatTTS` 是专门为对话场景设计的文本转语音模型，例如 `LLM` 助手对话任务，它支持英文和中文两种语言，最大的模型使用了10万小时以上的中英文数据进行训练：
+基于自己的产品或者项目快速打造一个问答社区：
 
-- 对话式 TTS: ChatTTS针对对话式任务进行了优化，实现了自然流畅的语音合成，同时支持多说话人。
-- 细粒度控制: 该模型能够预测和控制细粒度的韵律特征，包括笑声、停顿和插入词等。
-- 更好的韵律: ChatTTS在韵律方面超越了大部分开源TTS模型。同时提供预训练模型，支持进一步的研究。
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-效果挺好的，相关 `Web UI` 有 [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) 项目：
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-![ChatTTS](https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg) 
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-### [autocut](https://github.com/mli/autocut)
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
-
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
 ## 🤖 软件 
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+🎉开源，可扩展，可自定义的素材管理库：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-### [polyglot](https://github.com/liou666/polyglot)
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+开源的`macOS` 纯文本编辑器：
+
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
 ### [avnc](https://github.com/gujjwal00/avnc)
 
@@ -58,43 +58,43 @@ Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
 ## 🕸 网站 
 
-### [khroma](https://www.khroma.co/)
+### [toonme](https://toonme.com)
 
-人工智能配色网站：
+该网站将原图绘制成可爱的卡通图片：
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [SearchEmoji](https://searchemoji.app/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
-### [phind.com](https://www.phind.com/)
+### [curated.design](https://www.curated.design/)
 
-面向开发者的人工智能搜索引擎：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
