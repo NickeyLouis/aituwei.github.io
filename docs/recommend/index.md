@@ -5,17 +5,11 @@
 
 ## 🎯 项目 
 
-### [answer](https://github.com/answerdev/answer)
+### [form-create](https://github.com/xaboy/form-create)
 
-基于自己的产品或者项目快速打造一个问答社区：
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
-
-### [MDGJX](https://github.com/work7z/MDGJX)
-
-秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
-
-![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
 ### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
@@ -28,73 +22,78 @@
 
 也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
+### [Flowise](https://github.com/FlowiseAI/Flowise)
+
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+
 ## 🤖 软件 
 
-### [mCollection](https://github.com/hunmer/mCollection)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-🎉开源，可扩展，可自定义的素材管理库：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-开源的`macOS` 纯文本编辑器：
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+### [spotube](https://github.com/KRTirtho/spotube)
 
-### [avnc](https://github.com/gujjwal00/avnc)
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-针对 `Android` 的开源 `VNC` 客户端：
-
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [2d2d](https://2d2d.io/)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
-
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [devv.ai](https://devv.ai/)
 
-该网站将原图绘制成可爱的卡通图片：
+`Devv AI` 是面向开发者的新一代 `AI` 搜索引擎，类似 `Bing AI` 的使用体验，针对程序员这块做了优化，背后使用的是 `GPT3.5`：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![devv](https://images-1252557999.file.myqcloud.com/uPic/devv.jpg) 
 
-### [SearchEmoji](https://searchemoji.app/)
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
 
-### [curated.design](https://www.curated.design/)
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+### [regex101](https://regex101.com/)
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
