@@ -5,95 +5,81 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+### [upptime](https://github.com/upptime/upptime)
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
-
-### [Flowise](https://github.com/FlowiseAI/Flowise)
-
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
-
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+### [Cider](https://github.com/ciderapp/Cider)
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-### [spotube](https://github.com/KRTirtho/spotube)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
+
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [devv.ai](https://devv.ai/)
+### [ICO converter](https://www.icoconverter.com/)
 
-`Devv AI` 是面向开发者的新一代 `AI` 搜索引擎，类似 `Bing AI` 的使用体验，针对程序员这块做了优化，背后使用的是 `GPT3.5`：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![devv](https://images-1252557999.file.myqcloud.com/uPic/devv.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [transhumans](https://www.transhumans.xyz/)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+免费可商用的人物插图：
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-### [regex101](https://regex101.com/)
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
-
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
