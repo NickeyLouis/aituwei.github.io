@@ -5,81 +5,101 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-### [upptime](https://github.com/upptime/upptime)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+### [whistle](https://github.com/avwo/whistle)
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+
+### [autocut](https://github.com/mli/autocut)
+
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
 ## 🤖 软件 
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [Cider](https://github.com/ciderapp/Cider)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [LearnData-开源笔记](https://newzone.top/)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
 ## 🕸 网站 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [tailspark](https://tailspark.co/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [linggle](https://linggle.com/)
 
-免费可商用的人物插图：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [sao.fm](https://sao.fm/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+一个在线听广播电台的网站：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
 ## ✍️ 说明
 
