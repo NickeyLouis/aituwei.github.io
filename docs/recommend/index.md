@@ -5,101 +5,105 @@
 
 ## 🎯 项目 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+`ChatHub` 是款全能聊天机器人客户端:
 
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
-### [whistle](https://github.com/avwo/whistle)
+### [melody](https://github.com/foamzou/melody)
 
-Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
-- **功能强大（理论上可以对请求做任意修改）**：
-    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
-    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
-    - 支持查看远程页面的 console 日志及 DOM 节点
-    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
-- **操作简单**：
-    - 直接通过浏览器查看抓包、修改请求
-    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
-    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+主要特性为：
 
-![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-### [autocut](https://github.com/mli/autocut)
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+### [pi-hole](https://pi-hole.net/)
+
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
-
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+`Solidity` 极简入门：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-### [LearnData-开源笔记](https://newzone.top/)
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
-
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
 ## 🕸 网站 
 
-### [tailspark](https://tailspark.co/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-### [linggle](https://linggle.com/)
+### [trendingpapers](https://trendingpapers.com)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [sao.fm](https://sao.fm/)
+### [chirper.ai](https://chirper.ai/zh)
 
-一个在线听广播电台的网站：
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
 ## ✍️ 说明
 
