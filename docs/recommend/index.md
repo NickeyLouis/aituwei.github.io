@@ -5,105 +5,91 @@
 
 ## 🎯 项目 
 
-### [chathub](https://github.com/chathub-dev/chathub)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-`ChatHub` 是款全能聊天机器人客户端:
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-### [melody](https://github.com/foamzou/melody)
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
 
-主要特性为：
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
-
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
-
-### [pi-hole](https://pi-hole.net/)
-
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+### [Bob](https://github.com/ripperhe/Bob)
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
-
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-`Solidity` 极简入门：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+### [archbase](https://github.com/foxsen/archbase)
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [batnoter](https://batnoter.com/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [trendingpapers](https://trendingpapers.com)
+### [水印宝](https://watermark.chiloh.cn/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
-### [chirper.ai](https://chirper.ai/zh)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-一个只允许 AI 发帖的网站，所有内容由 AI 产生：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
 ## ✍️ 说明
 
