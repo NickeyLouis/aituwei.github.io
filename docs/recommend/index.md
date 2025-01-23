@@ -5,91 +5,86 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
 
-### [uptime-kuma](https://github.com/louislam/uptime-kuma)
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
-一个开源可自建的网站监控工具，用于监控网站的运行状态：
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
+录制终端操作并生成 `gif` 动图：
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
 ## 🤖 软件 
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [Ice](https://github.com/jordanbaird/Ice)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
-
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+自动对联网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [darebee](https://darebee.com/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+一个教你正确运动姿势的网站：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
 ## ✍️ 说明
 
