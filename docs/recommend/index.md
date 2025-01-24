@@ -5,86 +5,96 @@
 
 ## 🎯 项目 
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+### [luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-录制终端操作并生成 `gif` 动图：
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+### [osquery](https://github.com/osquery/osquery)
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
-
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
 
-### [Ice](https://github.com/jordanbaird/Ice)
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
 ## 👀 资料 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+在开源仓库可直接下载阅读。 
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+
+《Software Engineering at Google》的中文翻译版本：
+
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [quanxin](https://quanxin.org/)
 
-自动对联网站：
+快速、优雅、免费的在线工具，比如：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [z2h 字帖](https://paper.z2h.cn/)
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+### [batnoter](https://batnoter.com/)
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-### [darebee](https://darebee.com/)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-一个教你正确运动姿势的网站：
+### [photo2poem](https://photo2poem.top/)
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+每一张照片，都对应一首诗，很有意思：
+
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
 ## ✍️ 说明
 
