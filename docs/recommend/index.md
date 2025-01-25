@@ -5,96 +5,101 @@
 
 ## 🎯 项目 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+艺术二维码生成器：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [osquery](https://github.com/osquery/osquery)
+### [mometa](https://github.com/imcuttle/mometa)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+
+**它用于解决的问题有：**
+
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+
+![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
 
 ## 🤖 软件 
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+还有其他推荐的：
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
 ## 👀 资料 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-在开源仓库可直接下载阅读。 
+### [meetup](https://github.com/baiyutang/meetup)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-《Software Engineering at Google》的中文翻译版本：
-
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [quanxin](https://quanxin.org/)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-快速、优雅、免费的在线工具，比如：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+### [untools](https://untools.co/)
 
-### [batnoter](https://batnoter.com/)
+一个帮助你思考的集合工具&框架：
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+### [calltoinspiration](https://calltoinspiration.com/)
 
-### [photo2poem](https://photo2poem.top/)
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-每一张照片，都对应一首诗，很有意思：
-
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
 ## ✍️ 说明
 
