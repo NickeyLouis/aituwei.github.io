@@ -5,97 +5,100 @@
 
 ## 🎯 项目 
 
-### [pico.css](https://github.com/picocss/pico)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-### [mometa](https://github.com/imcuttle/mometa)
+目前支持 Chrome 和 Edge 两款浏览器：
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-**它用于解决的问题有：**
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
-![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+一个开源的快速制作文章封面图的工具。
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
-
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
-
-支持 `Docker` 部署和简单管理界面。 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [ani](https://github.com/open-ani/ani)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+集找番、追番、看番的一站式弹幕追番平台：
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [wora](https://github.com/hiaaryan/wora/)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-开源的`macOS` 纯文本编辑器：
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+
+针对新人的 `CSS` 入门级教程：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [calmcode](https://calmcode.io/)
 
-基于 `GPT` 实现的新闻过滤网站：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [antimkd](https://antimkd.com/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+无套路的软件下载网站：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
+
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
 ## ✍️ 说明
 
