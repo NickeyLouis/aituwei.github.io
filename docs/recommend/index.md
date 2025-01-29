@@ -5,100 +5,93 @@
 
 ## 🎯 项目 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [QAnything](https://github.com/netease-youdao/QAnything)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
 
-目前支持 Chrome 和 Edge 两款浏览器：
+![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
 
-### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
 
-中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-一个开源的快速制作文章封面图的工具。
-
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [ani](https://github.com/open-ani/ani)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-集找番、追番、看番的一站式弹幕追番平台：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [wora](https://github.com/hiaaryan/wora/)
+### [kondo](https://github.com/tbillington/kondo)
 
-开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+可以看到上面 `Rust` 项目依赖确实大。 
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-针对新人的 `CSS` 入门级教程：
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [calmcode](https://calmcode.io/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [antimkd](https://antimkd.com/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-无套路的软件下载网站：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [12ft.io](https://12ft.io/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
-
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
 ## ✍️ 说明
 
