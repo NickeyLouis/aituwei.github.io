@@ -5,88 +5,133 @@
 
 ## 🎯 项目 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [yuque-tools](https://github.com/vannvan/yuque-tools)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+- 个人知识库
+- 空间(团队)知识库
+- 协作知识库
+- 小记 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-### [budibase](https://github.com/Budibase/budibase)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+### [ChatGPT](https://chat.openai.com/chat)
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
 ## 🤖 软件 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [Loop](https://github.com/MrKai77/Loop)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+让窗口管理 `MacOS` 变得优雅：
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+安装好如果有权限问题，执行如下命令：
 
-控制外部显示器的亮度和音量（macOS）：
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+源的话推荐：
+
+- https://decrypt.day/library
+- https://ipa.store/
+
+就是有些 APP 偶尔会崩溃。 
+
+### [Hacki](https://github.com/Livinglist/Hacki)
+
+基于 `Flutter` 的  `Hacker News` 客户端:
+
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
 ## 👀 资料 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+`OpenAI API` 使用示例指南：
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-GitHub开源项目维护协作指南：
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
-
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [remixicon](https://remixicon.com/)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-### [medisearch](https://medisearch.io/zh)
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-直接的科学为基础的医疗问答模型：
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+### [aiwallpaper](https://aiwallpaper.shop/)
+
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+
+开源代码包括：
+
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
+
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
 ## ✍️ 说明
 
