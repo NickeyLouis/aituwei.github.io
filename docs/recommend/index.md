@@ -5,133 +5,115 @@
 
 ## 🎯 项目 
 
-### [yuque-tools](https://github.com/vannvan/yuque-tools)
+### [TheTNB_panel](https://github.com/TheTNB/panel)
 
-玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
 
-- 个人知识库
-- 空间(团队)知识库
-- 协作知识库
-- 小记 
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
 
-![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [dub](https://github.com/steven-tey/dub)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [ChatGPT](https://chat.openai.com/chat)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-让窗口管理 `MacOS` 变得优雅：
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-安装好如果有权限问题，执行如下命令：
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-源的话推荐：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-- https://decrypt.day/library
-- https://ipa.store/
-
-就是有些 APP 偶尔会崩溃。 
-
-### [Hacki](https://github.com/Livinglist/Hacki)
-
-基于 `Flutter` 的  `Hacker News` 客户端:
-
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-`OpenAI API` 使用示例指南：
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+《Mastering GO》中文译本，《玩转 GO》：
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
-
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [aicolors](https://aicolors.co/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+通过提示词，基于 AI 生成配色方案：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [weekly.fre123.com](https://weekly.fre123.com/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+最后再推荐下各端 RSS 工具软件资源：
 
-开源代码包括：
+| 名称                                                                                                                                                                         | 描述                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
+| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
+| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
+| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
+| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
+| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
+| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+### [iphub.info](https://iphub.info/)
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+检测 `IP` 质量和安全性：
+
+![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
 
 ## ✍️ 说明
 
