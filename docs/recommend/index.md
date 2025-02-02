@@ -5,115 +5,87 @@
 
 ## 🎯 项目 
 
-### [TheTNB_panel](https://github.com/TheTNB/panel)
+### [12306spy](https://github.com/elroy93/12306spy)
 
-耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
+从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
 
-- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
-- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
-- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
-- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
-- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
-- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
-- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
+![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
 
-![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-### [dub](https://github.com/steven-tey/dub)
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
-
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
-
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
-
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
 ## 🤖 软件 
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-个人免费的跨平台 `Kafka` 界面管理工具：
-
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
 ## 👀 资料 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+一本小书《带你入门前端工程》
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-《Mastering GO》中文译本，《玩转 GO》：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-通过提示词，基于 AI 生成配色方案：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [weekly.fre123.com](https://weekly.fre123.com/)
+### [aspoem](https://aspoem.com/)
 
-老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
-![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
+### [it-tools](https://it-tools.tech/)
 
-最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-最后再推荐下各端 RSS 工具软件资源：
-
-| 名称                                                                                                                                                                         | 描述                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
-| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
-| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
-| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
-| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
-| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
-| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
-
-### [iphub.info](https://iphub.info/)
-
-检测 `IP` 质量和安全性：
-
-![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
 ## ✍️ 说明
 
