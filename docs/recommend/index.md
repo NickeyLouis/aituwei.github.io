@@ -5,87 +5,88 @@
 
 ## 🎯 项目 
 
-### [12306spy](https://github.com/elroy93/12306spy)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [Textual](https://github.com/Textualize/textual)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [Tai](https://github.com/Planshit/Tai)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+关于 `MongoDB`，最全面的免费学习向导：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-一本小书《带你入门前端工程》
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+### [secguide](https://github.com/Tencent/secguide)
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
-
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
-
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
 ## 🕸 网站 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [nona](https://www.nona.de/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [aspoem](https://aspoem.com/)
+### [libhunt](https://www.libhunt.com/)
 
-现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
+一个对开源项目进行分类并排名的网站：
 
-![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [itnext](https://itnext.cn/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+一个介绍元宇宙的网站：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
-
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
