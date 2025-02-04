@@ -5,88 +5,89 @@
 
 ## 🎯 项目 
 
-### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
-![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
+### [wails](https://wails.io/)
 
-### [Textual](https://github.com/Textualize/textual)
+最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
-
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
 ## 🤖 软件 
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+### [Mos](https://github.com/Caldis/Mos)
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+沉浸式双语网页翻译扩展：
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [uxbaike](https://uxbaike.com/)
 
-关于 `MongoDB`，最全面的免费学习向导：
+UX 百科，属于设计师的专业知识库：
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-### [secguide](https://github.com/Tencent/secguide)
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [sayhello](https://beta.sayhello.so/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
 
-一个对开源项目进行分类并排名的网站：
+快速明确自己想要的开源许可证：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
 
-### [itnext](https://itnext.cn/)
+### [cook](https://github.com/YunYouJun/cook)
 
-一个介绍元宇宙的网站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
