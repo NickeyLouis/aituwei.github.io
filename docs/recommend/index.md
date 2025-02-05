@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+### crontab-ui
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+提供简单安全的方式来管理 `crontab`:
 
-### [wails](https://wails.io/)
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+### [musicn](https://github.com/zonemeen/musicn)
 
-![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+### [Paperlib](https://github.com/Future-Scholars/paperlib)
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+一个简单好用的开源论文管理工具，全平台支持：
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+- 为多学科定制元数据搜索器，尤其是 `CS` 学科，`及其精准的会议论文metadata` 匹配。
+- `macOS spotlight` 一样的快速复制粘贴 bibtex 引用。
+- 支持插件。
+- 干净整洁的 `UI`。
+- 订阅 `RSS` 获取最新论文
+- 全文搜索，评价，星标，标签，组，`MD` 纯文本笔记等
+- 云同步，三平台支持：`macOS, Windows, Linux`
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-沉浸式双语网页翻译扩展：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
-
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-UX 百科，属于设计师的专业知识库：
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+软件镜像站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-快速明确自己想要的开源许可证：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [useanimations](https://useanimations.com/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+前端动态 `UI` 样式集合：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
 ## ✍️ 说明
 
