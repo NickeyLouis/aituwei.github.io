@@ -5,91 +5,100 @@
 
 ## 🎯 项目 
 
-### crontab-ui
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-提供简单安全的方式来管理 `crontab`:
+Nginx 后台管理UI：
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-### [musicn](https://github.com/zonemeen/musicn)
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+### [Rin](https://github.com/OXeu/Rin)
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
 ## 🤖 软件 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
 
-### [Paperlib](https://github.com/Future-Scholars/paperlib)
+![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
 
-一个简单好用的开源论文管理工具，全平台支持：
+### [licecap](https://github.com/justinfrankel/licecap)
 
-- 为多学科定制元数据搜索器，尤其是 `CS` 学科，`及其精准的会议论文metadata` 匹配。
-- `macOS spotlight` 一样的快速复制粘贴 bibtex 引用。
-- 支持插件。
-- 干净整洁的 `UI`。
-- 订阅 `RSS` 获取最新论文
-- 全文搜索，评价，星标，标签，组，`MD` 纯文本笔记等
-- 云同步，三平台支持：`macOS, Windows, Linux`
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
-
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
 ## 👀 资料 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+**可惜永远都不会再更新了，默哀！**
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [sci-hub](https://sci-hub.se/)
 
-软件镜像站：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+用户可通过以下方式访问新版本：
 
-老照片修复工具，同时还提供上色和去背景功能：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
-### [useanimations](https://useanimations.com/)
+### [privacytools.io](https://www.privacytools.io/)
 
-前端动态 `UI` 样式集合：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+
+常用软件的快捷键备忘录：
+
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ## ✍️ 说明
 
