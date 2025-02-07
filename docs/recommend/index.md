@@ -5,100 +5,95 @@
 
 ## 🎯 项目 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 
-Nginx 后台管理UI：
+`MoneyPrinterPlus` 是一个基于 `AI` 技术的项目，能够一键批量生成和混剪短视频，并自动发布到多个视频平台，如抖音、快手、小红书和视频号，极大地简化了视频内容创作和发布的流程：
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+![MoneyPrinterPlus](https://images-1252557999.file.myqcloud.com/uPic/fXzX2S.png) 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-### [Rin](https://github.com/OXeu/Rin)
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
-
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
 ## 🤖 软件 
 
-### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [Joplin](https://github.com/laurent22/joplin)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+> 这篇文章也是使用Joplin写的 
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
+
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
+
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
+
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+`OpenAI API` 使用示例指南：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+`Solidity` 极简入门：
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-**可惜永远都不会再更新了，默哀！**
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-用户可通过以下方式访问新版本：
+### [读者阁](https://duzhege.cn/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+可以在线阅读故事会、读者等杂志的网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+一键将网站转化为桌面应用程序：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
-
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
-
-常用软件的快捷键备忘录：
-
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
 ## ✍️ 说明
 
