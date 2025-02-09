@@ -5,96 +5,97 @@
 
 ## 🎯 项目 
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+作者创建此开源项目的目的如下：
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-免费获取网站 `favicon` 的工具:
+### [osquery](https://github.com/osquery/osquery)
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
 ## 🤖 软件 
 
-### [RustClock](https://github.com/hoothin/RustClock)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-每半小时弹出一次的桌面时钟，基于 `Rust`：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [antares](https://github.com/Fabio286/antares)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-跨平台剪贴板同步方案，包含服务端客户端：
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
-
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
 ## 👀 资料 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-微信之父张小龙2351条饭否日记:
+### [pdai](https://pdai.tech/)
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
 ## 🕸 网站 
 
-### [tgscan](https://tgscan.xyz/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+一个好看的双拼学习网站：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-### [法律时代导航](https://yesen.cn/)
+免费的二维码生成网站：
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+### [zerogpt](https://www.zerogpt.com/)
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-冰霜大佬的博客：
-
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
 ## ✍️ 说明
 
