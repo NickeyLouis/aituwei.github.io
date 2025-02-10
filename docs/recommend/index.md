@@ -5,97 +5,81 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-作者创建此开源项目的目的如下：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+### [isaiah](https://github.com/will-moss/isaiah)
 
-### [osquery](https://github.com/osquery/osquery)
+`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
-
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
-
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
-
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
-
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
 
 ## 🤖 软件 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
-
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+一本小书《带你入门前端工程》
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-### [pdai](https://pdai.tech/)
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
-
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
 ## 🕸 网站 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [stockai.trade](https://stockai.trade)
 
-一个好看的双拼学习网站：
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+### [万词王](https://github.com/thunlp/WantWords)
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-免费的二维码生成网站：
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
+### [Kimi](https://kimi.moonshot.cn/ "Kimi")
 
-### [zerogpt](https://www.zerogpt.com/)
+当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
-
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
 
 ## ✍️ 说明
 
