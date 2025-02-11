@@ -5,81 +5,102 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-### [isaiah](https://github.com/will-moss/isaiah)
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
-`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+
+![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+
+### [inpaint-web](https://github.com/lxfater/inpaint-web)
+
+基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
+
+![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [Loop](https://github.com/MrKai77/Loop)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+让窗口管理 `MacOS` 变得优雅：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+安装好如果有权限问题，执行如下命令：
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
+
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-一本小书《带你入门前端工程》
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [stockai.trade](https://stockai.trade)
+### [untools](https://untools.co/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+一个帮助你思考的集合工具&框架：
 
-### [万词王](https://github.com/thunlp/WantWords)
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+### [regex.ai](https://regex.ai/)
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-### [Kimi](https://kimi.moonshot.cn/ "Kimi")
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
+### [free-font](https://free-font.vercel.app/)
 
-![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
 ## ✍️ 说明
 
