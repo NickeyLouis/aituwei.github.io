@@ -5,102 +5,89 @@
 
 ## 🎯 项目 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+### [budibase](https://github.com/Budibase/budibase)
 
-![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-### [inpaint-web](https://github.com/lxfater/inpaint-web)
-
-基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
-
-![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
+![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
 
 ## 🤖 软件 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [apifox](https://www.apifox.cn/)
 
-让窗口管理 `MacOS` 变得优雅：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-安装好如果有权限问题，执行如下命令：
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
-
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
-
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
 ## 👀 资料 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
-
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-一个帮助你思考的集合工具&框架：
+在线畅玩经典小游戏：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+自动对联网站：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [free-font](https://free-font.vercel.app/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+常用软件的快捷键备忘录：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
-
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ## ✍️ 说明
 
