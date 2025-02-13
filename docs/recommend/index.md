@@ -5,89 +5,83 @@
 
 ## 🎯 项目 
 
-### [websocketd](https://github.com/joewalnes/websocketd)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [apifox](https://www.apifox.cn/)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-使用「网易云音乐API」的安卓在线音乐播放器：
-
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
-
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+《Software Engineering at Google》的中文翻译版本：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
 ## 🕸 网站 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-在线畅玩经典小游戏：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-自动对联网站：
+金山出品的 PDF 免费工具集：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-常用软件的快捷键备忘录：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
 ## ✍️ 说明
 
