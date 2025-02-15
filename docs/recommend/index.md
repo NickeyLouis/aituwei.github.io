@@ -5,92 +5,88 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-一个开源的快速制作文章封面图的工具。
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-### [jspaint](https://github.com/1j01/jspaint)
+基于 `Notion` 构建静态站点：
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
-
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
-
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-免费截屏软件（macOS）：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [Sequel-Ace](https://sequel-ace.com/)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+### [Cider](https://github.com/ciderapp/Cider)
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+### [proxypin](https://github.com/wanghongenpin/proxypin)
+
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
 ## 👀 资料 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-重新分类 Leetcode 高频题 2021 版
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
-
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [transhumans](https://www.transhumans.xyz/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+免费可商用的人物插图：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [ifixit](https://zh.ifixit.com/)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+一个免费教授人们如何修理任何物品的网站：
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
-
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
