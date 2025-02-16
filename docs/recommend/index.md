@@ -5,88 +5,107 @@
 
 ## 🎯 项目 
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+### [doocs/md](https://github.com/doocs/md)
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-基于 `Notion` 构建静态站点：
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [MyBrain](https://github.com/mhss1/MyBrain)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+- 完全私密，不收集任何数据，也没有任何互联网权限。
+- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
+- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
+- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
+- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
+- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
+- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
 
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-### [Cider](https://github.com/ciderapp/Cider)
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
 ## 👀 资料 
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+对 `SEO` 有兴趣可以看看：
+
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [seesaw](https://www.seesaw.website/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-免费可商用的人物插图：
+免费的像素头像生成网站：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [drawio](https://github.com/jgraph/drawio)
 
-一个免费教授人们如何修理任何物品的网站：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
