@@ -5,107 +5,90 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-### [doocs/md](https://github.com/doocs/md)
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
 ## 🤖 软件 
 
-### [MyBrain](https://github.com/mhss1/MyBrain)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-- 完全私密，不收集任何数据，也没有任何互联网权限。
-- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
-- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
-- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
-- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
-- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
-- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
-![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
+### [EpubPress](https://epub.press/)
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
-
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
-
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
 ## 👀 资料 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+这里有比较全面的时间序列数据相关资源。 
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+《结网》作者王坚的开源新书：
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-对 `SEO` 有兴趣可以看看：
-
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [seesaw](https://www.seesaw.website/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [carbon](https://carbon.now.sh/)
 
-免费的像素头像生成网站：
+将你的源代码转成漂亮可分享的图片：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+开放纯粹的资源网站：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
 ## ✍️ 说明
 
