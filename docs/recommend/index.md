@@ -5,90 +5,99 @@
 
 ## 🎯 项目 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [duf](https://github.com/sigoden/duf)
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [miniflux](https://github.com/miniflux/v2)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+其他类似开源有：
+
+- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
+- 基于以上项目构建后的客户端：
+    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
+    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
+    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
+    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
 
 ## 🤖 软件 
 
-### [memreduct](https://github.com/henrypp/memreduct)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-### [EpubPress](https://epub.press/)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+跨平台的`youtube-dl`客户端：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
-
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
 
-这里有比较全面的时间序列数据相关资源。 
+一份医保省钱指南，省钱就是赚钱：
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
 
-《结网》作者王坚的开源新书：
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-### [carbon](https://carbon.now.sh/)
+### [eja.tv](https://eja.tv/?)
 
-将你的源代码转成漂亮可分享的图片：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [askaitools.ai](https://askaitools.ai/)
 
-开放纯粹的资源网站：
+专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
 
 ## ✍️ 说明
 
