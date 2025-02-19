@@ -5,99 +5,87 @@
 
 ## 🎯 项目 
 
-### [duf](https://github.com/sigoden/duf)
+### [heti](https://github.com/sivan/heti)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+免费获取网站 `favicon` 的工具:
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [miniflux](https://github.com/miniflux/v2)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-其他类似开源有：
-
-- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
-- 基于以上项目构建后的客户端：
-    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
-    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
-    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
-    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [cat-catch](https://github.com/xifangczy/cat-catch)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+猫抓(cat-catch) 资源嗅探扩展，能够帮你筛选列出当前页面的资源：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![cat-catch](https://images-1252557999.file.myqcloud.com/uPic/cat-catch.png) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-跨平台的`youtube-dl`客户端：
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
 ## 👀 资料 
 
-### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-一份医保省钱指南，省钱就是赚钱：
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
 
 ## 🕸 网站 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+一份新冠预防及治疗指南：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [useanimations](https://useanimations.com/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+前端动态 `UI` 样式集合：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [askaitools.ai](https://askaitools.ai/)
+### [phind.com](https://www.phind.com/)
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+面向开发者的人工智能搜索引擎：
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
 ## ✍️ 说明
 
