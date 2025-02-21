@@ -5,92 +5,89 @@
 
 ## 🎯 项目 
 
-### [novu](https://github.com/novuhq/novu)
+### [markmap](https://github.com/gera2ld/markmap)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+### [plane](https://github.com/makeplane/plane)
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-### [amis](https://github.com/baidu/amis)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [DevToys](https://github.com/veler/DevToys)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-放心体验吧~ 
-
-### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
-
-将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
-
-![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
 ## 👀 资料 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+计算机科学课程和视频讲座列表：
+
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [iconfont](https://www.iconfont.cn/)
 
-一个小工具，将你的图片像素化:
+阿里巴巴矢量图标库：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-- 网站: https://wikipedia-semantic-search.vercel.app
-- 代码: https://github.com/upstash/wikipedia-semantic-search
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
+### [apk.bot](https://apk.bot/)
 
-### [aitdk](https://aitdk.com/zh-CN/)
+免费无广告的 `APK` 下载网站：
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
-
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
 ## ✍️ 说明
 
