@@ -5,89 +5,100 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [ChatGPT](https://chat.openai.com/chat)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [plane](https://github.com/makeplane/plane)
+### [open-webui](https://github.com/open-webui/open-webui)
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+微软开源的 `Web` 编辑器：
 
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [visualize-ml](https://github.com/visualize-ml)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+开源书籍，`Prometheus`  操作指南：
 
-计算机科学课程和视频讲座列表：
-
-![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [damngood.tools](https://damngood.tools/)
 
-阿里巴巴矢量图标库：
+开源实用工具集合：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-### [apk.bot](https://apk.bot/)
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-免费无广告的 `APK` 下载网站：
+### [1loc](https://1loc.dev/)
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
 ## ✍️ 说明
 
