@@ -5,101 +5,79 @@
 
 ## 🎯 项目 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+### [ollama](https://github.com/jmorganca/ollama)
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-每天学习一个 Go 语言库，内容质量相当高。
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
 ## 🤖 软件 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+### [NetMount](https://github.com/VirtualHotBar/NetMount)
 
-### [cicada](https://github.com/mebtte/cicada)
+统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
 
-知了, 支持多用户的开源音乐服务：
+![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
-
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
-
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
 ## 👀 资料 
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
-
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
-
-开源书籍，`Prometheus`  操作指南：
-
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [contrib.rocks](https://contrib.rocks/)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+为你的Github开源项目生成贡献者头像集合：
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+### [Ben Eater](https://eater.net/)
 
-### [eja.tv](https://eja.tv/?)
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+### [latexlive](https://www.latexlive.com/)
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
-
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
