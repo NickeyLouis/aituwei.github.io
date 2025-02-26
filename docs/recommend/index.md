@@ -5,79 +5,106 @@
 
 ## 🎯 项目 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [dootask](https://github.com/kuaifan/dootask)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
-### [ollama](https://github.com/jmorganca/ollama)
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
 
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
 ## 🤖 软件 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+- 简单易用: 文件应用，一键隐藏。
+- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
+- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
+- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
+- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
+- 赏心悦目的界面: 简洁干净的 Material3 设计。
 
-### [NetMount](https://github.com/VirtualHotBar/NetMount)
+![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
 
-统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+### [bloop](https://github.com/BloopAI/bloop)
+
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
 ## 👀 资料 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-开源的正则表达式教程，有中文版，有在线示例。 
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [dute](https://www.dute.org/)
 
-为你的Github开源项目生成贡献者头像集合：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [Ben Eater](https://eater.net/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-### [latexlive](https://www.latexlive.com/)
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+目前有两种方式使用这个项目：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+
+### [bizhi1](https://bizhi1.com/)
+
+极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
+
+![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
 
 ## ✍️ 说明
 
