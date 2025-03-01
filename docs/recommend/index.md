@@ -5,116 +5,98 @@
 
 ## 🎯 项目 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-### [HTTPie](https://github.com/httpie/httpie)
+带看板的开源项目管理工具:
 
-现代化的HTTP客户端命令行工具：
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-沉浸式双语网页翻译扩展：
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
-
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
 ## 👀 资料 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+深度学习入门教程资料聚合项目，包含：
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+为初学者整理的免费 `CSS` 课程：
+
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [favicon.io](https://favicon.io/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [jsont.run](https://www.jsont.run/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+一个简洁的在线 `JSON` 解析器：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [fancymacbook](https://fancymacbook.app/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-### [chatdoc](https://chatdoc.com/)
-
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
-
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
