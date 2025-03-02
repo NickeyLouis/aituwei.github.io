@@ -5,98 +5,86 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [rathole](https://github.com/rapiz1/rathole)
 
-带看板的开源项目管理工具:
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-### [ar5iv](https://github.com/dginev/ar5iv)
-
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
-
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [cicada](https://github.com/mebtte/cicada)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+知了, 支持多用户的开源音乐服务：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [leetcode](https://github.com/doocs/leetcode)
 
-深度学习入门教程资料聚合项目，包含：
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+一份 `Next.js` 中文教程：
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
-
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
-
-为初学者整理的免费 `CSS` 课程：
-
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [ailogo](https://ailogo.qq.com/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+`AI` 智能生成可商用的 `LOGO`：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [warp.dev](https://www.warp.dev/)
 
-一个简洁的在线 `JSON` 解析器：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [v0.dev](https://v0.dev/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
 ## ✍️ 说明
 
