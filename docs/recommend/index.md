@@ -5,86 +5,110 @@
 
 ## 🎯 项目 
 
-### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-### [rathole](https://github.com/rapiz1/rathole)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
+
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-知了, 支持多用户的开源音乐服务：
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+简单来说，这款软件能看什么取决与你用什么插件：
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+### [Kazumi](https://github.com/Predidit/Kazumi)
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
+
+![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-### [leetcode](https://github.com/doocs/leetcode)
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [rust-course](https://github.com/sunface/rust-course)
 
-一份 `Next.js` 中文教程：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+
+阅读地址见[course.rs](https://course.rs)。 
+
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [ailogo](https://ailogo.qq.com/)
+### [selfh](https://selfh.st/)
 
-`AI` 智能生成可商用的 `LOGO`：
+网站提供了可自建项目的动态，每周更新：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
-### [warp.dev](https://www.warp.dev/)
+### [linggle](https://linggle.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [v0.dev](https://v0.dev/)
+### [roadmap.sh](https://roadmap.sh/)
 
-描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
 ## ✍️ 说明
 
