@@ -5,110 +5,93 @@
 
 ## 🎯 项目 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [koishi](https://koishi.chat/zh-CN/)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
-
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
 ## 🤖 软件 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
 
-简单来说，这款软件能看什么取决与你用什么插件：
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
 
-### [Kazumi](https://github.com/Predidit/Kazumi)
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
-基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
+### [RedFish](https://github.com/Kuari/RedFish)
 
-![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
 ## 👀 资料 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [rust-course](https://github.com/sunface/rust-course)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+### [2d2d](https://2d2d.io/)
 
-阅读地址见[course.rs](https://course.rs)。 
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
-
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
-
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [selfh](https://selfh.st/)
+### [Baidu 一格](https://yige.baidu.com/)
 
-网站提供了可自建项目的动态，每周更新：
+百度出品的文字生成图像模型：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [linggle](https://linggle.com/)
+### [uilibhub](https://uilibhub.com/zh)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [stockai.trade](https://stockai.trade)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
-
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
 ## ✍️ 说明
 
