@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+一个获取百度网盘分享链接下载地址的工具：
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+### [500lines](https://github.com/aosabook/500lines)
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-### [koishi](https://koishi.chat/zh-CN/)
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
-使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
 
-本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+一款安卓上的哔哩哔哩的第三方APP：
 
-![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
-
-### [RedFish](https://github.com/Kuari/RedFish)
-
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
-
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+### [leetcode](https://github.com/doocs/leetcode)
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+精益副业：程序员如何优雅地做副业:
 
-### [2d2d](https://2d2d.io/)
-
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
-
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [drawio](https://github.com/jgraph/drawio)
 
-百度出品的文字生成图像模型：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
-### [uilibhub](https://uilibhub.com/zh)
+### [roadmap.sh](https://roadmap.sh/)
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [stockai.trade](https://stockai.trade)
+### [文学网](https://www.hwxnet.com/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+文学相关工具在线网站：
+
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
