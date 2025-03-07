@@ -5,90 +5,96 @@
 
 ## 🎯 项目 
 
-### [glance](https://github.com/glanceapp/glance)
+### [moffee](https://github.com/BMPixel/moffee)
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
 ## 🤖 软件 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-### [PicList](https://github.com/Kuingsmile/PicList)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-- 相册支持同步云端删除文件
-- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
-- 增加了完整的云存储管理功能
-- 等等
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
-
-![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
 ## 👀 资料 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+### [uilibhub](https://uilibhub.com/zh)
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-PDF Squeezer 是一款 PDF 压缩工具：
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+### [linggle](https://linggle.com/)
+
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
 ## ✍️ 说明
 
