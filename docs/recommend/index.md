@@ -5,96 +5,96 @@
 
 ## 🎯 项目 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [signoz](https://github.com/signoz/signoz)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
 
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [qinglong](https://github.com/whyour/qinglong)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
 ## 🤖 软件 
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+### [NetMount](https://github.com/VirtualHotBar/NetMount)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [winlator](https://github.com/brunodev85/winlator)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+### [my-tv](https://github.com/lizongying/my-tv)
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+安卓电视直播软件，内置直播源：
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
-
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+Docker 学习教程：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-### [theByteBook](https://github.com/isno/theByteBook)
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
-
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+一个小工具，将你的图片像素化:
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [文学网](https://www.hwxnet.com/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+文学相关工具在线网站：
 
-### [uilibhub](https://uilibhub.com/zh)
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+### [AnyBT](https://anybt.eth.limo/)
 
-### [linggle](https://linggle.com/)
+种子搜索引擎，下载你想要的资源：
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
-
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
 ## ✍️ 说明
 
