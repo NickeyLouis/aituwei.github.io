@@ -5,96 +5,99 @@
 
 ## 🎯 项目 
 
-### [signoz](https://github.com/signoz/signoz)
+### [slickr](https://github.com/saviomartin/slickr)
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-### [qinglong](https://github.com/whyour/qinglong)
+### [rssbot](https://github.com/iovxw/rssbot)
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+用于消息通知的轻量级 `Telegram RSS` 机器人。 
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
-
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
-
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
 ## 🤖 软件 
 
-### [NetMount](https://github.com/VirtualHotBar/NetMount)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
+🎉开源，可扩展，可自定义的素材管理库：
 
-![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-### [winlator](https://github.com/brunodev85/winlator)
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-### [my-tv](https://github.com/lizongying/my-tv)
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-安卓电视直播软件，内置直播源：
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+
+🎉 一个 `Frp Client` 跨平台桌面端：
+
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
 ## 👀 资料 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-Docker 学习教程：
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-教程：小型金融知识图谱流程示范。 
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-一个小工具，将你的图片像素化:
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [web.dev](https://web.dev/learn/)
 
-文学相关工具在线网站：
+谷歌团队开放的网页设计与开发课程：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [meiriyiwen](https://meiriyiwen.com/)
 
-### [AnyBT](https://anybt.eth.limo/)
+每天一篇随机散文：
 
-种子搜索引擎，下载你想要的资源：
-
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
 ## ✍️ 说明
 
