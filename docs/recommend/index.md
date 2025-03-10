@@ -5,99 +5,81 @@
 
 ## 🎯 项目 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [tinymind](https://github.com/mazzzystar/tinymind)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
 
-### [rssbot](https://github.com/iovxw/rssbot)
+### [moffee](https://github.com/BMPixel/moffee)
 
-用于消息通知的轻量级 `Telegram RSS` 机器人。 
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [mCollection](https://github.com/hunmer/mCollection)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-🎉开源，可扩展，可自定义的素材管理库：
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+### [winlator](https://github.com/brunodev85/winlator)
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
-
-🎉 一个 `Frp Client` 跨平台桌面端：
-
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
 ## 👀 资料 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
-
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
-
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
-
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
 ## 🕸 网站 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [web.dev](https://web.dev/learn/)
+### [icones.js.org](https://icones.js.org/)
 
-谷歌团队开放的网页设计与开发课程：
+免费的图标库：
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [it-tools](https://it-tools.tech/)
 
-每天一篇随机散文：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
 ## ✍️ 说明
 
