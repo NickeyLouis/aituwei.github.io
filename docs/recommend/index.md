@@ -5,81 +5,94 @@
 
 ## 🎯 项目 
 
-### [tinymind](https://github.com/mazzzystar/tinymind)
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [typst](https://github.com/typst/typst)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
 
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+- 内置常见格式任务的标记
+- 灵活的功能用于其他所有任务
+- 紧密集成的脚本系统
+- 数学排版、参考文献管理等功能
+- 通过增量编译实现快速编译时间
+- 友好错误提示以防出错
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+专注于您的文本，让Typst来处理布局和格式。
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
 ## 🤖 软件 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
 
-### [winlator](https://github.com/brunodev85/winlator)
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [learningprompt](https://learningprompt.wiki/)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [haitang](https://github.com/javayhu/haitang)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [suno.ai](https://www.suno.ai/ "suno.ai")
 
-免费的图标库：
+最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [ideogram.ai](https://ideogram.ai/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+免费无次数限制的文字转图片网页：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
-
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
 ## ✍️ 说明
 
