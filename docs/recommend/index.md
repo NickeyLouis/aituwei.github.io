@@ -5,94 +5,83 @@
 
 ## 🎯 项目 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+录制终端操作并生成 `gif` 动图：
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [typst](https://github.com/typst/typst)
+### [restic](https://github.com/restic/restic)
 
-`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-- 内置常见格式任务的标记
-- 灵活的功能用于其他所有任务
-- 紧密集成的脚本系统
-- 数学排版、参考文献管理等功能
-- 通过增量编译实现快速编译时间
-- 友好错误提示以防出错
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-专注于您的文本，让Typst来处理布局和格式。
+### [ladder](https://github.com/everywall/ladder)
 
-![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
-
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
-
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
 ## 🤖 软件 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [MooTool](https://github.com/rememberber/MooTool)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+开发者常备小工具：
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![ceVEdx](https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [Later](https://github.com/alyssaxuu/later)
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
-
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+`Web` 开发发展史文章系列：
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-### [learningprompt](https://learningprompt.wiki/)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [apitracker](https://apitracker.io/)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [suno.ai](https://www.suno.ai/ "suno.ai")
+### [couplet](https://ai.binwang.me/couplet/)
 
-最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
+自动对联网站：
 
-![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-免费无次数限制的文字转图片网页：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
 ## ✍️ 说明
 
