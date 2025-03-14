@@ -5,92 +5,93 @@
 
 ## 🎯 项目 
 
-### [imsyy/home](https://github.com/imsyy/home)
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-简单优雅的个人主页项目：
+🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
 
-- 载入动画
--  站点简介
--  Hitokoto 一言
--  日期及时间
--  实时天气
--  时光进度条
--  音乐播放器
--  移动端适配
+- 通过向量数据库实现长期记忆 🧠
+- 通过语言链具备网络浏览能力 🌐
+- 与网站和人进行交互 👨‍👩‍👦
+- 通过文档 API 具备写作能力 📄
+- 保存代理运行 💾
+- 用户和身份验证 🔐
+- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
 
-![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
+![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [novel](https://github.com/steven-tey/novel)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-### [zyronon/douyin](https://github.com/zyronon/douyin)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-### [Alock](https://github.com/luoxuhai/Alock)
-
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
-
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-`Web` 开发发展史文章系列：
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [BGC](https://beej.us/guide/bgc/)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+面向初学者的 C 语言教程：
 
-### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-为你的Github开源项目生成贡献者头像集合：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+可以免费在线听&下载歌曲：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
-### [quark.so](https://www.quark.so/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
 ## ✍️ 说明
 
