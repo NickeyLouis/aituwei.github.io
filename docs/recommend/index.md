@@ -5,93 +5,102 @@
 
 ## 🎯 项目 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [movie-web](https://github.com/movie-web/movie-web)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+开源可自部署的简约在线电影搜索观看项目：
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
 
-### [novel](https://github.com/steven-tey/novel)
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+- 代理
+- 前端
+- 后端
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+### [photoview](https://github.com/photoview/photoview)
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+开源的相册程序，可基于Docker快速构建：
+
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+
+### [komodo](https://github.com/mbecker20/komodo)
+
+一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
+
+![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
 
 ## 🤖 软件 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [Calendr](https://github.com/pakerwreah/Calendr)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [sideproject](https://sideproject.guide/)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+`Side Project` 指南：
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [BGC](https://beej.us/guide/bgc/)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-面向初学者的 C 语言教程：
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [phind.com](https://www.phind.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+面向开发者的人工智能搜索引擎：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-可以免费在线听&下载歌曲：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [fviewer](https://www.fviewer.com/zh)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
 ## ✍️ 说明
 
