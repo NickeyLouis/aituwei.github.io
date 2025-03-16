@@ -5,102 +5,87 @@
 
 ## 🎯 项目 
 
-### [movie-web](https://github.com/movie-web/movie-web)
+### [dub](https://github.com/steven-tey/dub)
 
-开源可自部署的简约在线电影搜索观看项目：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-- 代理
-- 前端
-- 后端
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
+### [duplicati](https://github.com/duplicati/duplicati)
 
-### [photoview](https://github.com/photoview/photoview)
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-开源的相册程序，可基于Docker快速构建：
-
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
-
-### [komodo](https://github.com/mbecker20/komodo)
-
-一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
-
-![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
 ## 🤖 软件 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [MiniSim](https://github.com/okwasniewski/MiniSim)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
 
-### [Calendr](https://github.com/pakerwreah/Calendr)
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [zen](https://github.com/anfragment/zen)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-`Side Project` 指南：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+为忙碌的工程师准备的精选面试准备材料：
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [phind.com](https://www.phind.com/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-面向开发者的人工智能搜索引擎：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+随便画一画，生成美观的图片：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
 ## ✍️ 说明
 
