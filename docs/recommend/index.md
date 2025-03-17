@@ -5,87 +5,98 @@
 
 ## 🎯 项目 
 
-### [dub](https://github.com/steven-tey/dub)
+### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+基于 `ChatGPT` 相关接口衍生的项目：
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+### [wewe-rss](https://github.com/cooderl/wewe-rss)
 
-### [duplicati](https://github.com/duplicati/duplicati)
+更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
+
+注意：项目并非 **100%** 完全开源。 
 
 ## 🤖 软件 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+跨平台大模型客户端：
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-### [zen](https://github.com/anfragment/zen)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+健康学习到150岁 - 人体系统调优不完全指南：
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-为忙碌的工程师准备的精选面试准备材料：
-
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
 ## 🕸 网站 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+网站收集了各个朝代人物介绍：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-随便画一画，生成美观的图片：
+`GitHub` 最大的开源算法库：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [warp.dev](https://www.warp.dev/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
 ## ✍️ 说明
 
