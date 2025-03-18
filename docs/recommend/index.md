@@ -5,98 +5,98 @@
 
 ## 🎯 项目 
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+### [dockge](https://github.com/louislam/dockge)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+`Portainer` 也是不错的选择。 
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-### [wewe-rss](https://github.com/cooderl/wewe-rss)
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
+支持 `Docker` 部署和简单管理界面。 
 
-之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
+### [AnimeGarden](https://github.com/yjl9903/AnimeGarden)
 
-![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
+動漫花園 第三方 镜像站 以及 动画 BT 资源聚合站.
 
-注意：项目并非 **100%** 完全开源。 
+- ☁️ 为开发者准备的开放 API 接口
+- 📺 查看 动画放送时间表 来找到你喜欢的动画
+- 🔖 支持丰富的高级搜索, 例如: 葬送的芙莉莲 +简体内嵌 字幕组:桜都字幕组 类型:动画
+- 📙 自定义 RSS 订阅链接, 例如: 葬送的芙莉莲
+- ⭐ 搜索条件收藏夹和生成聚合的 RSS 订阅链接
+- 👷‍♂️ 支持与 AutoBangumi 和 AnimeSpace 集成
+
+![AnimeGarden](https://images-1252557999.file.myqcloud.com/uPic/AnimeGarden.png) 
 
 ## 🤖 软件 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [Thor](https://github.com/gbammc/Thor)
 
-跨平台大模型客户端：
+通过快捷键快速打开应用：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [bruno](https://github.com/usebruno/bruno)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-健康学习到150岁 - 人体系统调优不完全指南：
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
 ## 🕸 网站 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [eja.tv](https://eja.tv/?)
 
-网站收集了各个朝代人物介绍：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-`GitHub` 最大的开源算法库：
+一个好看的双拼学习网站：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [warp.dev](https://www.warp.dev/)
+### [logo.surf](https://www.logo.surf/#generate-favicon)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+快速创建图标：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
 
 ## ✍️ 说明
 
