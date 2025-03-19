@@ -5,98 +5,98 @@
 
 ## 🎯 项目 
 
-### [dockge](https://github.com/louislam/dockge)
+### [greppo](https://github.com/greppo-io/greppo)
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+快速轻松地构建部署地理空间应用程序：
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-`Portainer` 也是不错的选择。 
+### [statping](https://github.com/statping/statping)
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+### [Doocs-md](https://gitee.com/Doocs/md)
 
-支持 `Docker` 部署和简单管理界面。 
+✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
 
-### [AnimeGarden](https://github.com/yjl9903/AnimeGarden)
-
-動漫花園 第三方 镜像站 以及 动画 BT 资源聚合站.
-
-- ☁️ 为开发者准备的开放 API 接口
-- 📺 查看 动画放送时间表 来找到你喜欢的动画
-- 🔖 支持丰富的高级搜索, 例如: 葬送的芙莉莲 +简体内嵌 字幕组:桜都字幕组 类型:动画
-- 📙 自定义 RSS 订阅链接, 例如: 葬送的芙莉莲
-- ⭐ 搜索条件收藏夹和生成聚合的 RSS 订阅链接
-- 👷‍♂️ 支持与 AutoBangumi 和 AnimeSpace 集成
-
-![AnimeGarden](https://images-1252557999.file.myqcloud.com/uPic/AnimeGarden.png) 
+![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [lapce](https://github.com/lapce/lapce)
 
-通过快捷键快速打开应用：
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-### [bruno](https://github.com/usebruno/bruno)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
+超方便的微信视频号下载器：
 
-![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+`Solidity` 极简入门：
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ## 🕸 网站 
 
-### [eja.tv](https://eja.tv/?)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-一个好看的双拼学习网站：
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
+- https://uiverse.io/
+- https://www.handsome-css.com/
 
-快速创建图标：
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
