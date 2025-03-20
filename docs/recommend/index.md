@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-快速轻松地构建部署地理空间应用程序：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-### [statping](https://github.com/statping/statping)
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+AI 法律助手:
 
-### [Doocs-md](https://gitee.com/Doocs/md)
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
-
-![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [lapce](https://github.com/lapce/lapce)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-超方便的微信视频号下载器：
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
+### [Ice](https://github.com/jordanbaird/Ice)
 
-音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
 
-![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
+![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
 
 ## 👀 资料 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [whale-quant](https://github.com/datawhalechina/whale-quant)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-`Solidity` 极简入门：
+微信之父张小龙2351条饭否日记:
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+关于云安全攻防的基础知识：
 
-你可以用以下方式浏览：
-
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+常用软件的快捷键备忘录：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+一个可以免费使用的大模型 API 合集网站：
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
+### [uiset](https://uiset.com/)
 
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
-
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
-
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
