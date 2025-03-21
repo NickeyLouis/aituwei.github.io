@@ -5,90 +5,93 @@
 
 ## 🎯 项目 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [Sink](https://github.com/ccbikai/Sink)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
 
-### [Multipass](https://github.com/canonical/multipass)
- 
- `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
- 
- ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-AI 法律助手:
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+
+`Neovim` 针对 `ChatGPT` 的插件：
+
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
 ## 🤖 软件 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [Thor](https://github.com/gbammc/Thor)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+通过快捷键快速打开应用：
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+### [video2blog](https://github.com/aehyok/video2blog)
 
-### [Ice](https://github.com/jordanbaird/Ice)
+视频转图文 AI 跨平台客户端：
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
-
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
 ## 👀 资料 
 
-### [whale-quant](https://github.com/datawhalechina/whale-quant)
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-微信之父张小龙2351条饭否日记:
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-关于云安全攻防的基础知识：
+`Web` 开发发展史文章系列：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [smartexcel](https://www.smartexcel.cc/)
 
-常用软件的快捷键备忘录：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [openalternative](https://openalternative.co/)
 
-一个可以免费使用的大模型 API 合集网站：
+网站提供了一些项目的开源选择：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
-### [uiset](https://uiset.com/)
+### [网道](https://wangdoc.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
