@@ -5,39 +5,47 @@
 
 ## 🎯 项目 
 
-### [Sink](https://github.com/ccbikai/Sink)
+### [Textual](https://github.com/Textualize/textual)
 
-在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [Rin](https://github.com/OXeu/Rin)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-`Neovim` 针对 `ChatGPT` 的插件：
-
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-通过快捷键快速打开应用：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+### [mCollection](https://github.com/hunmer/mCollection)
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+🎉开源，可扩展，可自定义的素材管理库：
+
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
+
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
 ### [video2blog](https://github.com/aehyok/video2blog)
 
@@ -53,45 +61,50 @@
 
 ## 👀 资料 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-`Web` 开发发展史文章系列：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
 ## 🕸 网站 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [quanxin](https://quanxin.org/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+快速、优雅、免费的在线工具，比如：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [openalternative](https://openalternative.co/)
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
-网站提供了一些项目的开源选择：
+### [gooddesign](https://www.gooddesign.tools/)
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+优质设计师工具导航网站：
 
-### [网道](https://wangdoc.com/)
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+### [ziyouziti](https://ziyouziti.com/)
 
-目前提供了不少教程，对于初学者是非常友好的：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
