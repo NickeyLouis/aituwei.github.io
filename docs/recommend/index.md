@@ -5,106 +5,91 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+一个获取百度网盘分享链接下载地址的工具：
 
-### [Rin](https://github.com/OXeu/Rin)
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+### [wechat-export](https://github.com/luin/wechat-export)
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+将微信聊天记录导出为HTML文件：
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+简单描述工作内容，帮你生成完整周报：
+
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [Alexandria](https://github.com/btpf/Alexandria)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-### [mCollection](https://github.com/hunmer/mCollection)
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-🎉开源，可扩展，可自定义的素材管理库：
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+项目还在持续开发，我们可以保持期待。 
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-### [video2blog](https://github.com/aehyok/video2blog)
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-视频转图文 AI 跨平台客户端：
-
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
 ## 👀 资料 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+比较全面的 `k8s` 资源收集项目：
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+为忙碌的工程师准备的精选面试准备材料：
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
-
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [quanxin](https://quanxin.org/)
+### [grep.app](https://grep.app/)
 
-快速、优雅、免费的在线工具，比如：
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+### [onepdf](https://www.onepdf.online/)
 
-### [gooddesign](https://www.gooddesign.tools/)
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-优质设计师工具导航网站：
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-### [ziyouziti](https://ziyouziti.com/)
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
-
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
 ## ✍️ 说明
 
