@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-一个获取百度网盘分享链接下载地址的工具：
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-### [wechat-export](https://github.com/luin/wechat-export)
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-将微信聊天记录导出为HTML文件：
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-简单描述工作内容，帮你生成完整周报：
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+### [EpubPress](https://epub.press/)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
-项目还在持续开发，我们可以保持期待。 
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
-
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [uxbaike](https://uxbaike.com/)
 
-比较全面的 `k8s` 资源收集项目：
+UX 百科，属于设计师的专业知识库：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-为忙碌的工程师准备的精选面试准备材料：
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
 ## 🕸 网站 
 
-### [grep.app](https://grep.app/)
+### [oss.gallery](https://oss.gallery/)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
-### [onepdf](https://www.onepdf.online/)
+### [chess.com](https://www.chess.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+在线国际象棋：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [ideogram.ai](https://ideogram.ai/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+免费无次数限制的文字转图片网页：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
 ## ✍️ 说明
 
