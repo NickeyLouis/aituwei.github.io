@@ -5,100 +5,110 @@
 
 ## 🎯 项目 
 
-### [dpanel](https://github.com/donknap/dpanel)
+### [py12306](https://github.com/pjialin/py12306)
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
 
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
 
-B站视频命令行下载工具：
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+### [novu](https://github.com/novuhq/novu)
+
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
 ## 🤖 软件 
 
-### [Tailor](https://github.com/FutureUniant/Tailor)
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
 
-![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-跨平台剪贴板同步方案，包含服务端客户端：
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
-
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
-
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
 ## 👀 资料 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+更新记录如下：
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
-
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [icones.js.org](https://icones.js.org/)
+### [olocr.com](https://olocr.com)
 
-免费的图标库：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
+### [whatslink](https://whatslink.info/)
 
-对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-- 网站: https://wikipedia-semantic-search.vercel.app
-- 代码: https://github.com/upstash/wikipedia-semantic-search
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+提供在线绘制时序图的网站：
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
-
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
