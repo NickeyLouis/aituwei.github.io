@@ -5,110 +5,91 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+在你的终端使用 `Chromium`：
 
-在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
-- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
-- 生成图像时无需联网
-- 图像转图像（也被称为 Image2Image）
-- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
-- 使用 RealESRGAN 放大生成的图像
-- 自动保存 & 恢复图像
-- 自定义 Stable Diffusion Core ML 模型
-- 无需担心损坏的模型
-- 使用 macOS 原生框架 SwiftUI 开发
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-### [novu](https://github.com/novuhq/novu)
-
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
-
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
 ## 🤖 软件 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
+`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
 
-![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
+![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
+- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+对于浏览器双语翻译插件，还推荐以下项目：
+
+- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
+- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
+
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [rework](https://github.com/livid/rework)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+这里有比较全面的时间序列数据相关资源。 
 
-更新记录如下：
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
-
-### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
-
-`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
-
-![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
 ## 🕸 网站 
 
-### [olocr.com](https://olocr.com)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-### [whatslink](https://whatslink.info/)
+### [cryptologos](https://cryptologos.cc/)
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-提供在线绘制时序图的网站：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
