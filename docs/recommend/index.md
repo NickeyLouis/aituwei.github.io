@@ -5,55 +5,67 @@
 
 ## 🎯 项目 
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [dub](https://github.com/steven-tey/dub)
 
-在你的终端使用 `Chromium`：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+### [heyform](https://github.com/heyform/heyform)
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+
+![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-### [Easydict](https://github.com/tisfeng/Easydict)
+### [MyBrain](https://github.com/mhss1/MyBrain)
 
-`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
+开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
 
-![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
+- 完全私密，不收集任何数据，也没有任何互联网权限。
+- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
+- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
+- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
+- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
+- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
+- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
 
-可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
+![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
 
-- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
-- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
+### [libpag](https://github.com/Tencent/libpag)
 
-对于浏览器双语翻译插件，还推荐以下项目：
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
-- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
-
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
 ## 👀 资料 
+
+### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+
+基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ### [rework](https://github.com/livid/rework)
 
@@ -61,35 +73,25 @@
 
 ![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
-
-这里有比较全面的时间序列数据相关资源。 
-
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
-
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
-
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
-
 ## 🕸 网站 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [newsminimalist](https://www.newsminimalist.com/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+基于 `GPT` 实现的新闻过滤网站：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+深言达意，懂文字更懂你：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [up-6.com](https://www.up-6.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一个英语学习导航网站：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
 ## ✍️ 说明
 
