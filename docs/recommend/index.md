@@ -5,93 +5,104 @@
 
 ## 🎯 项目 
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+艺术二维码生成器：
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [dub](https://github.com/steven-tey/dub)
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-### [heyform](https://github.com/heyform/heyform)
-
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
-
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
 
-### [MyBrain](https://github.com/mhss1/MyBrain)
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
-开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-- 完全私密，不收集任何数据，也没有任何互联网权限。
-- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
-- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
-- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
-- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
-- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
-- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-### [libpag](https://github.com/Tencent/libpag)
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
 
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
 ## 👀 资料 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-### [rework](https://github.com/livid/rework)
+**可惜永远都不会再更新了，默哀！**
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [newsminimalist](https://www.newsminimalist.com/)
+### [sqlime](http://sqlime.org/)
 
-基于 `GPT` 实现的新闻过滤网站：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![newsminimalist](https://images-1252557999.file.myqcloud.com/uPic/newsminimalist.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-深言达意，懂文字更懂你：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-### [up-6.com](https://www.up-6.com/)
+目前有两种方式使用这个项目：
 
-一个英语学习导航网站：
+- 网站：推荐
+- VS Code插件
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+
+### [grep.app](https://grep.app/)
+
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
