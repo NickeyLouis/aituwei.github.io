@@ -5,104 +5,88 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [novel](https://github.com/steven-tey/novel)
 
-艺术二维码生成器：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+### [500lines](https://github.com/aosabook/500lines)
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-- 直接管理多种云存储平台
-- 便捷上传和下载文件
-- 兼容 S3 API，轻松集成现有系统
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
+### [Equinox](https://github.com/rlxone/Equinox)
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+### [orbstack](https://github.com/orbstack)
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
-
-### [Focalboard](https://github.com/mattermost/focalboard)
-
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
-
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+教程：小型金融知识图谱流程示范。 
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-**可惜永远都不会再更新了，默哀！**
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
-
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
-
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [ipa.store](https://ipa.store/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+`IPA` 商店：
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
 
-目前有两种方式使用这个项目：
+### [iconfont](https://www.iconfont.cn/)
 
-- 网站：推荐
-- VS Code插件
+阿里巴巴矢量图标库：
 
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
-
-### [grep.app](https://grep.app/)
-
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
-
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
 ## ✍️ 说明
 
