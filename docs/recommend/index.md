@@ -5,88 +5,97 @@
 
 ## 🎯 项目 
 
-### [novel](https://github.com/steven-tey/novel)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [podman](https://github.com/containers/podman)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+支持 `Docker` 部署和简单管理界面。 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [buster](https://github.com/dessant/buster)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-### [orbstack](https://github.com/orbstack)
+### [polyglot](https://github.com/liou666/polyglot)
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
 ## 👀 资料 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-教程：小型金融知识图谱流程示范。 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+**可惜永远都不会再更新了，默哀！**
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [shell.how](https://www.shell.how/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
-### [ipa.store](https://ipa.store/)
+### [pingli.app](https://www.pingli.app/)
 
-`IPA` 商店：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [readecho.cn](https://readecho.cn/)
 
-阿里巴巴矢量图标库：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
 ## ✍️ 说明
 
