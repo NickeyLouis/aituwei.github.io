@@ -5,97 +5,83 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-### [podman](https://github.com/containers/podman)
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+### [outline](https://github.com/outline/outline)
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
-
-支持 `Docker` 部署和简单管理界面。 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [localsend](https://github.com/localsend/localsend)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [VPet](https://github.com/LorisYounger/VPet)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
-
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
 
-**可惜永远都不会再更新了，默哀！**
+![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
-
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
-
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
-
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
 
 ## 🕸 网站 
 
-### [shell.how](https://www.shell.how/)
+### [mycolor.space](https://mycolor.space/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-### [pingli.app](https://www.pingli.app/)
+### [css.gg](https://css.gg/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+`700+` 基于 `CSS` 的图标：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [readecho.cn](https://readecho.cn/)
+### [drawio](https://github.com/jgraph/drawio)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
