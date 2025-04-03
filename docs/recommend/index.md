@@ -5,83 +5,102 @@
 
 ## 🎯 项目 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-### [outline](https://github.com/outline/outline)
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+AI 法律助手:
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [localsend](https://github.com/localsend/localsend)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-### [VPet](https://github.com/LorisYounger/VPet)
+### [kopia](https://github.com/kopia/kopia)
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
 ## 👀 资料 
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+你可以用以下方式浏览：
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+
+- NLP
+- CV
+- Time Series
+
+目录概览：
+
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
 ## 🕸 网站 
 
-### [mycolor.space](https://mycolor.space/)
+### [tableconvert](https://tableconvert.com/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [css.gg](https://css.gg/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-`700+` 基于 `CSS` 的图标：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [sysmini](https://www.sysmini.com/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
 ## ✍️ 说明
 
