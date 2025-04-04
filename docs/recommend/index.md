@@ -5,102 +5,100 @@
 
 ## 🎯 项目 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+### [greppo](https://github.com/greppo-io/greppo)
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+快速轻松地构建部署地理空间应用程序：
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-AI 法律助手:
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
 ## 🤖 软件 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-### [kopia](https://github.com/kopia/kopia)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [radishes](https://github.com/radishes-music/radishes)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
 ## 👀 资料 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-你可以用以下方式浏览：
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+PyTorch 从0到精通教程：
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
 
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
-
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
-
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
-
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [batnoter](https://batnoter.com/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [musetransfer](https://musetransfer.com/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+这个 `Demo` 网页允许用户进行：
+
+- 人像修复
+- 人像抠图
+- 动漫增强
+
+模型，免费实用。
+
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
 ## ✍️ 说明
 
