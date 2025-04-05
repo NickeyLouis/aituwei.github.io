@@ -5,100 +5,90 @@
 
 ## 🎯 项目 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [Rin](https://github.com/OXeu/Rin)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
 
-### [greppo](https://github.com/greppo-io/greppo)
+![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
 
-快速轻松地构建部署地理空间应用程序：
+### [UpSnap](https://github.com/seriousm4x/UpSnap)
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+
+![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
 
 ## 🤖 软件 
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [radishes](https://github.com/radishes-music/radishes)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-PyTorch 从0到精通教程：
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+Kubernetes 中文指南/云原生应用架构实战手册：
+
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [docsmall](https://docsmall.com/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [musetransfer](https://musetransfer.com/)
+### [smalldev.tools](https://smalldev.tools/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+开发者常用工具集：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+浏览器扩展应用周刊：
 
-这个 `Demo` 网页允许用户进行：
-
-- 人像修复
-- 人像抠图
-- 动漫增强
-
-模型，免费实用。
-
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
 ## ✍️ 说明
 
