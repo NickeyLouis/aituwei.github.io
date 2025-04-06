@@ -5,90 +5,109 @@
 
 ## 🎯 项目 
 
-### [Rin](https://github.com/OXeu/Rin)
+### [crawlee](https://crawlee.dev/)
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+基于 `Node` 编写的开源网络爬虫库：
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-### [UpSnap](https://github.com/seriousm4x/UpSnap)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
+
+其他资源：
+
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
 ## 🤖 软件 
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+- 简单易用: 文件应用，一键隐藏。
+- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
+- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
+- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
+- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
+- 赏心悦目的界面: 简洁干净的 Material3 设计。
 
-### [Sequel-Ace](https://sequel-ace.com/)
+![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
+
+一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
+
+![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
-
-Kubernetes 中文指南/云原生应用架构实战手册：
-
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [docsmall](https://docsmall.com/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [smalldev.tools](https://smalldev.tools/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-开发者常用工具集：
+### [pixabay](https://pixabay.com/)
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-### [crxsoso](https://www.crxsoso.com/articles)
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-浏览器扩展应用周刊：
+### [flomoapp](https://flomoapp.com/)
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
