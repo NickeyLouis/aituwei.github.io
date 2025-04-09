@@ -5,97 +5,89 @@
 
 ## 🎯 项目 
 
-### [picx](https://github.com/XPoet/picx)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [TheTNB_panel](https://github.com/TheTNB/panel)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
-- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
-- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
-- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
-- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
-- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
-- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+盒装微信，在linux下基于Docker技术使用微信客户端：
+
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [lapce](https://github.com/lapce/lapce)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-### [gitify](https://github.com/gitify-app/gitify)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [orbstack](https://github.com/orbstack)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
 ## 👀 资料 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-通过科学方法训练自己的身体，让自己更加健康：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-中国5级行政区域mysql库：
-
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [askaitools.ai](https://askaitools.ai/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+冰霜大佬的博客：
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-深言达意，懂文字更懂你：
+常用软件的快捷键备忘录：
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-### [regex101](https://regex101.com/)
+### [damngood.tools](https://damngood.tools/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+开源实用工具集合：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
 ## ✍️ 说明
 
