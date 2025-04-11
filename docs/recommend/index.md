@@ -5,52 +5,29 @@
 
 ## 🎯 项目 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [ossart](https://github.com/djyde/ossart)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
+![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
-
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
-
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
-
-### [wowtab](https://wowtab.microsoft.com/)
-
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
-
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
-
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-
-适用于Android的免费开源漫画阅读器，流畅丝滑：
-
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
-
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
@@ -58,52 +35,59 @@
 
 ![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+
+### [Sloth](https://github.com/sveinbjornt/Sloth)
+
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-以非常直观的语言介绍`pytorch`：
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-作者的同类电子书还有：
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-项目收集了计算机科学领域值得一读的论文：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
-
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
-
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
-
-`OpenAI` 出品的的深度强化学习教程：
-
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [caesium-image-compressor](https://caesium.app/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+免费开源的图片压缩工具：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-### [quickref](https://quickref.me/)
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+### [ixinqing](http://www.ixinqing.com/)
 
-### [relationship](https://passer-by.com/relationship/)
+心晴 · 专注于心理学入门与自我成长:
 
-中国亲戚关系计算器：
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+### [读书笔记](https://reading.geek-docs.com/)
+
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
