@@ -5,89 +5,100 @@
 
 ## 🎯 项目 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [MyIP](https://github.com/jason5ng32/MyIP)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [flet](https://github.com/flet-dev/flet)
 
-### [ossart](https://github.com/djyde/ossart)
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+### [Kavita](https://github.com/Kareadita/Kavita)
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+有了 Kavita，你可以：
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+- 支持 Manga/Webtoons/Comics 等丰富源
+- 针对各种设备上给你一流的阅读使用体验，夜间模式等
+- 丰富的元数据支持，包括过滤和搜索功能
+- 多语言支持
+- ...
+
+![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
 
 ## 🤖 软件 
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+### [flameshot](https://github.com/flameshot-org/flameshot)
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+- 自定义外观：支持自定义截图工具和颜色。
+- 简易使用：提供图形化界面和命令行操作。
+- 内置编辑：可以在应用内编辑截图。
+- 快捷键支持：支持本地和全局快捷键配置。
+- 截图上传：支持将截图上传到 Imgur。
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+轻量级macOS剪切板管理应用：
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+目前也提供了中文版：
+
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
 ## 🕸 网站 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [BriefGPT](https://briefgpt.xyz/)
 
-免费开源的图片压缩工具：
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+### [uisdc.com](https://hao.uisdc.com/)
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+设计师网站导航：
 
-### [ixinqing](http://www.ixinqing.com/)
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-心晴 · 专注于心理学入门与自我成长:
+### [devdocs](https://devdocs.io/)
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+提供在线快速查找API接口文档的网站：
 
-### [读书笔记](https://reading.geek-docs.com/)
-
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
-
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
