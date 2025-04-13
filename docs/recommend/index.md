@@ -5,100 +5,89 @@
 
 ## 🎯 项目 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [coolify](https://github.com/coollabsio/coolify)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+> `Vercel Netlify Heroku` 开源替代品
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-### [Kavita](https://github.com/Kareadita/Kavita)
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
 
-Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
-有了 Kavita，你可以：
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-- 支持 Manga/Webtoons/Comics 等丰富源
-- 针对各种设备上给你一流的阅读使用体验，夜间模式等
-- 丰富的元数据支持，包括过滤和搜索功能
-- 多语言支持
-- ...
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
 ## 🤖 软件 
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-### [Maccy](https://github.com/p0deje/Maccy)
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-轻量级macOS剪切板管理应用：
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
-
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+项目收集了计算机科学领域值得一读的论文：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-目前也提供了中文版：
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
+
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
 ## 🕸 网站 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [seekflag](https://seekflag.com/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [flomoapp](https://flomoapp.com/)
 
-设计师网站导航：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-提供在线快速查找API接口文档的网站：
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
 ## ✍️ 说明
 
