@@ -5,89 +5,93 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-### [coolify](https://github.com/coollabsio/coolify)
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
 
-> `Vercel Netlify Heroku` 开源替代品
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+目前支持 Chrome 和 Edge 两款浏览器：
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
 ## 🤖 软件 
 
-### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
+### [yarr](https://github.com/nkanaev/yarr)
 
-音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+总体来说还是挺简洁轻量的：
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+### [Later](https://github.com/alyssaxuu/later)
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+### [marktext](https://github.com/marktext/marktext)
+
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-项目收集了计算机科学领域值得一读的论文：
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
-
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+字节开源的一款图标库。 
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+### [lexica.art](https://lexica.art/)
 
-### [flomoapp](https://flomoapp.com/)
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+### [zhongguose](http://zhongguose.com/)
 
-### [ticompressor](https://www.ticompressor.com/online/)
+一个中国传统颜色的配色网站：
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
-
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
